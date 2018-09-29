@@ -1,0 +1,13 @@
+Debug/
+NJLIC-1.0.1-Darwin.dmg
+NJLIC.build/
+_CPack_Packages/
+build/
+doc/
+install/
+install_manifest.txt
+install_manifest_Devel.txt
+install_manifest_Unspecified.txt
+libNJLIC.dylib
+tagfile
+

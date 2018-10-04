@@ -11,3 +11,6 @@ install_manifest_Unspecified.txt
 libNJLIC.dylib
 tagfile
 
+NJLIC.xcodeproj/project.xcworkspace/
+NJLIC.xcodeproj/xcuserdata/
+Release/

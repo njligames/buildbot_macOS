@@ -42,85 +42,169 @@ BULLET3_INCLUDE_DIR:PATH=/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/
 Bullet2FileLoader_LIBRARY_DEBUG:FILEPATH=/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet2FileLoader.a
 
 //Path to a library.
+Bullet2FileLoader_LIBRARY_MINSIZEREL:FILEPATH=/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/MinSizeRel/libBullet2FileLoader.a
+
+//Path to a library.
 Bullet2FileLoader_LIBRARY_RELEASE:FILEPATH=/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Release/libBullet2FileLoader.a
+
+//Path to a library.
+Bullet2FileLoader_LIBRARY_RELWITHDEBINFO:FILEPATH=Bullet2FileLoader_LIBRARY_RELWITHDEBINFO-NOTFOUND
 
 //Path to a library.
 Bullet3Collision_LIBRARY_DEBUG:FILEPATH=/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet3Collision.a
 
 //Path to a library.
+Bullet3Collision_LIBRARY_MINSIZEREL:FILEPATH=/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/MinSizeRel/libBullet3Collision.a
+
+//Path to a library.
 Bullet3Collision_LIBRARY_RELEASE:FILEPATH=/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Release/libBullet3Collision.a
+
+//Path to a library.
+Bullet3Collision_LIBRARY_RELWITHDEBINFO:FILEPATH=Bullet3Collision_LIBRARY_RELWITHDEBINFO-NOTFOUND
 
 //Path to a library.
 Bullet3Common_LIBRARY_DEBUG:FILEPATH=/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet3Common.a
 
 //Path to a library.
+Bullet3Common_LIBRARY_MINSIZEREL:FILEPATH=/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/MinSizeRel/libBullet3Common.a
+
+//Path to a library.
 Bullet3Common_LIBRARY_RELEASE:FILEPATH=/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Release/libBullet3Common.a
+
+//Path to a library.
+Bullet3Common_LIBRARY_RELWITHDEBINFO:FILEPATH=Bullet3Common_LIBRARY_RELWITHDEBINFO-NOTFOUND
 
 //Path to a library.
 Bullet3Dynamics_LIBRARY_DEBUG:FILEPATH=/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet3Dynamics.a
 
 //Path to a library.
+Bullet3Dynamics_LIBRARY_MINSIZEREL:FILEPATH=/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/MinSizeRel/libBullet3Dynamics.a
+
+//Path to a library.
 Bullet3Dynamics_LIBRARY_RELEASE:FILEPATH=/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Release/libBullet3Dynamics.a
+
+//Path to a library.
+Bullet3Dynamics_LIBRARY_RELWITHDEBINFO:FILEPATH=Bullet3Dynamics_LIBRARY_RELWITHDEBINFO-NOTFOUND
 
 //Path to a library.
 Bullet3Geometry_LIBRARY_DEBUG:FILEPATH=/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet3Geometry.a
 
 //Path to a library.
+Bullet3Geometry_LIBRARY_MINSIZEREL:FILEPATH=/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/MinSizeRel/libBullet3Geometry.a
+
+//Path to a library.
 Bullet3Geometry_LIBRARY_RELEASE:FILEPATH=/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Release/libBullet3Geometry.a
+
+//Path to a library.
+Bullet3Geometry_LIBRARY_RELWITHDEBINFO:FILEPATH=Bullet3Geometry_LIBRARY_RELWITHDEBINFO-NOTFOUND
 
 //Path to a library.
 Bullet3OpenCL_clew_LIBRARY_DEBUG:FILEPATH=/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet3OpenCL_clew.a
 
 //Path to a library.
+Bullet3OpenCL_clew_LIBRARY_MINSIZEREL:FILEPATH=/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/MinSizeRel/libBullet3OpenCL_clew.a
+
+//Path to a library.
 Bullet3OpenCL_clew_LIBRARY_RELEASE:FILEPATH=/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Release/libBullet3OpenCL_clew.a
+
+//Path to a library.
+Bullet3OpenCL_clew_LIBRARY_RELWITHDEBINFO:FILEPATH=Bullet3OpenCL_clew_LIBRARY_RELWITHDEBINFO-NOTFOUND
 
 //Path to a library.
 BulletCollision_LIBRARY_DEBUG:FILEPATH=/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletCollision.a
 
 //Path to a library.
+BulletCollision_LIBRARY_MINSIZEREL:FILEPATH=/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/MinSizeRel/libBulletCollision.a
+
+//Path to a library.
 BulletCollision_LIBRARY_RELEASE:FILEPATH=/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Release/libBulletCollision.a
+
+//Path to a library.
+BulletCollision_LIBRARY_RELWITHDEBINFO:FILEPATH=BulletCollision_LIBRARY_RELWITHDEBINFO-NOTFOUND
 
 //Path to a library.
 BulletDynamics_LIBRARY_DEBUG:FILEPATH=/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletDynamics.a
 
 //Path to a library.
+BulletDynamics_LIBRARY_MINSIZEREL:FILEPATH=/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/MinSizeRel/libBulletDynamics.a
+
+//Path to a library.
 BulletDynamics_LIBRARY_RELEASE:FILEPATH=/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Release/libBulletDynamics.a
+
+//Path to a library.
+BulletDynamics_LIBRARY_RELWITHDEBINFO:FILEPATH=BulletDynamics_LIBRARY_RELWITHDEBINFO-NOTFOUND
 
 //Path to a library.
 BulletFileLoader_LIBRARY_DEBUG:FILEPATH=/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletFileLoader.a
 
 //Path to a library.
+BulletFileLoader_LIBRARY_MINSIZEREL:FILEPATH=/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/MinSizeRel/libBulletFileLoader.a
+
+//Path to a library.
 BulletFileLoader_LIBRARY_RELEASE:FILEPATH=/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Release/libBulletFileLoader.a
+
+//Path to a library.
+BulletFileLoader_LIBRARY_RELWITHDEBINFO:FILEPATH=BulletFileLoader_LIBRARY_RELWITHDEBINFO-NOTFOUND
 
 //Path to a library.
 BulletInverseDynamicsUtils_LIBRARY_DEBUG:FILEPATH=/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletInverseDynamicsUtils.a
 
 //Path to a library.
+BulletInverseDynamicsUtils_LIBRARY_MINSIZEREL:FILEPATH=/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/MinSizeRel/libBulletInverseDynamicsUtils.a
+
+//Path to a library.
 BulletInverseDynamicsUtils_LIBRARY_RELEASE:FILEPATH=/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Release/libBulletInverseDynamicsUtils.a
+
+//Path to a library.
+BulletInverseDynamicsUtils_LIBRARY_RELWITHDEBINFO:FILEPATH=BulletInverseDynamicsUtils_LIBRARY_RELWITHDEBINFO-NOTFOUND
 
 //Path to a library.
 BulletInverseDynamics_LIBRARY_DEBUG:FILEPATH=/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletInverseDynamics.a
 
 //Path to a library.
+BulletInverseDynamics_LIBRARY_MINSIZEREL:FILEPATH=/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/MinSizeRel/libBulletInverseDynamics.a
+
+//Path to a library.
 BulletInverseDynamics_LIBRARY_RELEASE:FILEPATH=/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Release/libBulletInverseDynamics.a
+
+//Path to a library.
+BulletInverseDynamics_LIBRARY_RELWITHDEBINFO:FILEPATH=BulletInverseDynamics_LIBRARY_RELWITHDEBINFO-NOTFOUND
 
 //Path to a library.
 BulletSoftBody_LIBRARY_DEBUG:FILEPATH=/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletSoftBody.a
 
 //Path to a library.
+BulletSoftBody_LIBRARY_MINSIZEREL:FILEPATH=/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/MinSizeRel/libBulletSoftBody.a
+
+//Path to a library.
 BulletSoftBody_LIBRARY_RELEASE:FILEPATH=/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Release/libBulletSoftBody.a
+
+//Path to a library.
+BulletSoftBody_LIBRARY_RELWITHDEBINFO:FILEPATH=BulletSoftBody_LIBRARY_RELWITHDEBINFO-NOTFOUND
 
 //Path to a library.
 BulletWorldImporter_LIBRARY_DEBUG:FILEPATH=/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletWorldImporter.a
 
 //Path to a library.
+BulletWorldImporter_LIBRARY_MINSIZEREL:FILEPATH=/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/MinSizeRel/libBulletWorldImporter.a
+
+//Path to a library.
 BulletWorldImporter_LIBRARY_RELEASE:FILEPATH=/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Release/libBulletWorldImporter.a
+
+//Path to a library.
+BulletWorldImporter_LIBRARY_RELWITHDEBINFO:FILEPATH=BulletWorldImporter_LIBRARY_RELWITHDEBINFO-NOTFOUND
 
 //Path to a library.
 BulletXmlWorldImporter_LIBRARY_DEBUG:FILEPATH=/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletXmlWorldImporter.a
 
 //Path to a library.
+BulletXmlWorldImporter_LIBRARY_MINSIZEREL:FILEPATH=/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/MinSizeRel/libBulletXmlWorldImporter.a
+
+//Path to a library.
 BulletXmlWorldImporter_LIBRARY_RELEASE:FILEPATH=/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Release/libBulletXmlWorldImporter.a
+
+//Path to a library.
+BulletXmlWorldImporter_LIBRARY_RELWITHDEBINFO:FILEPATH=BulletXmlWorldImporter_LIBRARY_RELWITHDEBINFO-NOTFOUND
 
 //use: `brew install clang-format` to install
 CLANG_FORMAT_BIN:STRING=/usr/local/bin/clang-format
@@ -224,7 +308,7 @@ CMAKE_INSTALL_NAME_TOOL:FILEPATH=/usr/bin/install_name_tool
 CMAKE_INSTALL_OLDINCLUDEDIR:PATH=/usr/include
 
 //Install path prefix, prepended onto install directories.
-CMAKE_INSTALL_PREFIX:PATH=/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/install/Release
+CMAKE_INSTALL_PREFIX:PATH=/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/install/Debug
 
 //Run-time variable data (LOCALSTATEDIR/run)
 CMAKE_INSTALL_RUNSTATEDIR:PATH=
@@ -368,7 +452,13 @@ CPPCHECK_FORMAT_BIN:STRING=/usr/local/bin/cppcheck
 ConvexDecomposition_LIBRARY_DEBUG:FILEPATH=/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libConvexDecomposition.a
 
 //Path to a library.
+ConvexDecomposition_LIBRARY_MINSIZEREL:FILEPATH=/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/MinSizeRel/libConvexDecomposition.a
+
+//Path to a library.
 ConvexDecomposition_LIBRARY_RELEASE:FILEPATH=/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Release/libConvexDecomposition.a
+
+//Path to a library.
+ConvexDecomposition_LIBRARY_RELWITHDEBINFO:FILEPATH=ConvexDecomposition_LIBRARY_RELWITHDEBINFO-NOTFOUND
 
 //Path to a file.
 DEBUG-DRAW_INCLUDE_DIR:PATH=/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/debug-draw/lib/macos/include
@@ -395,7 +485,7 @@ ESD:BOOL=OFF
 EXECUTABLE_GITHUB_ACCOUNT:STRING=njligames
 
 //No help, variable specified on the command line.
-EXECUTABLE_GITHUB_BRANCH:STRING=feature/test_new_geometry
+EXECUTABLE_GITHUB_BRANCH:STRING=feature/more_targets
 
 //No help, variable specified on the command line.
 EXECUTABLE_GITHUB_REPOSITORY:STRING=njligames-njlic_engine
@@ -413,7 +503,13 @@ GCC_ATOMICS:BOOL=ON
 GIMPACTUtils_LIBRARY_DEBUG:FILEPATH=/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libGIMPACTUtils.a
 
 //Path to a library.
+GIMPACTUtils_LIBRARY_MINSIZEREL:FILEPATH=/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/MinSizeRel/libGIMPACTUtils.a
+
+//Path to a library.
 GIMPACTUtils_LIBRARY_RELEASE:FILEPATH=/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Release/libGIMPACTUtils.a
+
+//Path to a library.
+GIMPACTUtils_LIBRARY_RELWITHDEBINFO:FILEPATH=GIMPACTUtils_LIBRARY_RELWITHDEBINFO-NOTFOUND
 
 //Path to a file.
 GLM_INCLUDE_DIR:PATH=/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/glm/lib/macos/include
@@ -422,7 +518,13 @@ GLM_INCLUDE_DIR:PATH=/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thir
 HACD_LIBRARY_DEBUG:FILEPATH=/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libHACD.a
 
 //Path to a library.
+HACD_LIBRARY_MINSIZEREL:FILEPATH=/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/MinSizeRel/libHACD.a
+
+//Path to a library.
 HACD_LIBRARY_RELEASE:FILEPATH=/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Release/libHACD.a
+
+//Path to a library.
+HACD_LIBRARY_RELWITHDEBINFO:FILEPATH=HACD_LIBRARY_RELWITHDEBINFO-NOTFOUND
 
 //Path to a file.
 IMGUIZMO_INCLUDE_DIR:PATH=/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/ImGuizmo/lib/macos/include
@@ -437,7 +539,13 @@ INPUT_TSLIB:BOOL=OFF
 ImGuizmo_LIBRARY_DEBUG:FILEPATH=/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/ImGuizmo/lib/macos/Debug/libImGuizmo.a
 
 //Path to a library.
+ImGuizmo_LIBRARY_MINSIZEREL:FILEPATH=/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/ImGuizmo/lib/macos/MinSizeRel/libImGuizmo.a
+
+//Path to a library.
 ImGuizmo_LIBRARY_RELEASE:FILEPATH=/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/ImGuizmo/lib/macos/Release/libImGuizmo.a
+
+//Path to a library.
+ImGuizmo_LIBRARY_RELWITHDEBINFO:FILEPATH=ImGuizmo_LIBRARY_RELWITHDEBINFO-NOTFOUND
 
 //The URL for the include files for thirdparty/ImGuizmo/lib/macos/include
 ImGuizmo_URL_INCLUDE:STRING=https://www.dropbox.com/s/vi20so6cykm4zxx/libimguizmo_includes.tar.gz?dl=0
@@ -455,7 +563,13 @@ LIBSAMPLERATE:BOOL=OFF
 LinearMath_LIBRARY_DEBUG:FILEPATH=/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libLinearMath.a
 
 //Path to a library.
+LinearMath_LIBRARY_MINSIZEREL:FILEPATH=/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/MinSizeRel/libLinearMath.a
+
+//Path to a library.
 LinearMath_LIBRARY_RELEASE:FILEPATH=/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Release/libLinearMath.a
+
+//Path to a library.
+LinearMath_LIBRARY_RELWITHDEBINFO:FILEPATH=LinearMath_LIBRARY_RELWITHDEBINFO-NOTFOUND
 
 //Use MMX assembly routines
 MMX:BOOL=ON
@@ -555,7 +669,13 @@ SDL2_INCLUDE_DIR:PATH=/usr/local/include/sdl2
 SDL2_LIBRARY_DEBUG:FILEPATH=/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/sdl2/lib/macos/Debug/libSDL2.a
 
 //Path to a library.
+SDL2_LIBRARY_MINSIZEREL:FILEPATH=SDL2_LIBRARY_MINSIZEREL-NOTFOUND
+
+//Path to a library.
 SDL2_LIBRARY_RELEASE:FILEPATH=/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/sdl2/lib/macos/Release/libSDL2.a
+
+//Path to a library.
+SDL2_LIBRARY_RELWITHDEBINFO:FILEPATH=SDL2_LIBRARY_RELWITHDEBINFO-NOTFOUND
 
 //Enable the Atomic subsystem
 SDL_ATOMIC:BOOL=ON
@@ -639,7 +759,13 @@ THIRDPARTY_BULLET3_ENABLED:BOOL=ON
 THIRDPARTY_BULLET3_INCLUDE_URL:STRING=https://www.dropbox.com/s/f2zfpkdx2agtk00/libbullet3_includes.tar.gz?dl=0
 
 //The URL for Release Bullet3
+THIRDPARTY_BULLET3_MINSIZEREL_URL:STRING=https://www.dropbox.com/s/zxn28kde9p0lkeq/libbullet3_macos_MinsizeRel.tar.gz?dl=0
+
+//The URL for Release Bullet3
 THIRDPARTY_BULLET3_RELEASE_URL:STRING=https://www.dropbox.com/s/olzpklmcosf5of4/libbullet3_macos_Release.tar.gz?dl=0
+
+//The URL for Release Bullet3
+THIRDPARTY_BULLET3_RELWITHDEBUGINFO_URL:STRING=https://www.dropbox.com/s/1euapbjkdsxms5n/libbullet3_macos_RelWithDebugInfo.tar.gz?dl=0
 
 //The URL for include Bullet3
 THIRDPARTY_DEBUG-DRAW_INCLUDE_URL:STRING=https://www.dropbox.com/s/c405ev7l3d0ruvb/libdebug-draw_includes.tar.gz?dl=0
@@ -663,7 +789,13 @@ THIRDPARTY_IMGUIZMO_ENABLED:BOOL=ON
 THIRDPARTY_IMGUIZMO_INCLUDE_URL:STRING=https://www.dropbox.com/s/vi20so6cykm4zxx/libimguizmo_includes.tar.gz?dl=0
 
 //The URL for Release Bullet3
+THIRDPARTY_IMGUIZMO_MINSIZEREL_URL:STRING=https://www.dropbox.com/s/j6wybgx7e0pd9u8/libimguizmo_macos_MisizeRel.tar.gz?dl=0
+
+//The URL for Release Bullet3
 THIRDPARTY_IMGUIZMO_RELEASE_URL:STRING=https://www.dropbox.com/s/0yon05cklycutiq/libimguizmo_macos_Release.tar.gz?dl=0
+
+//The URL for Release Bullet3
+THIRDPARTY_IMGUIZMO_RELWITHDEBUGINFO_URL:STRING=https://www.dropbox.com/s/8j2b5meqjz4ivx8/libimguizmo_macos_RelWithDebugInfo.tar.gz?dl=0
 
 //The URL for Debug Bullet3
 THIRDPARTY_IMGUI_DEBUG_URL:STRING=https://www.dropbox.com/s/33vlb6h0zsvnapl/libimgui_macos_Debug.tar.gz?dl=0
@@ -675,7 +807,13 @@ THIRDPARTY_IMGUI_ENABLED:BOOL=ON
 THIRDPARTY_IMGUI_INCLUDE_URL:STRING=https://www.dropbox.com/s/xhauwvyy48g5dd7/libimgui_includes.tar.gz?dl=0
 
 //The URL for Release Bullet3
+THIRDPARTY_IMGUI_MINSIZEREL_URL:STRING=https://www.dropbox.com/s/vt266d0c4vh7gul/libimgui_macos_MinsizeRel.tar.gz?dl=0
+
+//The URL for Release Bullet3
 THIRDPARTY_IMGUI_RELEASE_URL:STRING=https://www.dropbox.com/s/ing0jztefzfnyre/libimgui_macos_Release.tar.gz?dl=0
+
+//The URL for Release Bullet3
+THIRDPARTY_IMGUI_RELWITHDEBUGINFO_URL:STRING=https://www.dropbox.com/s/aanpjudfk73puwd/libimgui_macos_RelWithDebugInfo.tar.gz?dl=0
 
 //Use JsonCPP library
 THIRDPARTY_JSONCPP_ENABLED:BOOL=OFF
@@ -690,7 +828,13 @@ THIRDPARTY_OGG_DEBUG_URL:STRING=https://www.dropbox.com/s/rrlq3la5v9yflyp/libogg
 THIRDPARTY_OGG_INCLUDE_URL:STRING=https://www.dropbox.com/s/agc7zmqg9m64x9i/libogg_includes.tar.gz?dl=0
 
 //The URL for Release Bullet3
+THIRDPARTY_OGG_MINSIZEREL_URL:STRING=https://www.dropbox.com/s/pfzqns1g1rvby29/libogg_macos_MinsizeRel.tar.gz?dl=0
+
+//The URL for Release Bullet3
 THIRDPARTY_OGG_RELEASE_URL:STRING=https://www.dropbox.com/s/htqjt4tmws7r8y2/libogg_macos_Release.tar.gz?dl=0
+
+//The URL for Release Bullet3
+THIRDPARTY_OGG_RELWITHDEBUGINFO_URL:STRING=https://www.dropbox.com/s/ndyode72ghyd606/libogg_macos_RelWithDebugInfo.tar.gz?dl=0
 
 //The URL for Debug Bullet3
 THIRDPARTY_SDL2_DEBUG_URL:STRING=https://www.dropbox.com/s/nvhp2k3ykm56zw0/libsdl2_macos_Debug.tar.gz?dl=0
@@ -704,7 +848,7 @@ THIRDPARTY_SDL2_INCLUDE_URL:STRING=https://www.dropbox.com/s/ninle2iwebrcpdq/lib
 //The URL for Release Bullet3
 THIRDPARTY_SDL2_RELEASE_URL:STRING=https://www.dropbox.com/s/80eklswpp6c2fbc/libsdl2_macos_Release.tar.gz?dl=0
 
-//The URL for include STBImages
+//The URL for include Bullet3
 THIRDPARTY_STBIMAGES_INCLUDE_URL:STRING=https://www.dropbox.com/s/u9c4ruts1wac41k/stb_image_includes.tar.gz?dl=0
 
 //The URL for Debug Bullet3
@@ -714,7 +858,13 @@ THIRDPARTY_VORBIS_DEBUG_URL:STRING=https://www.dropbox.com/s/afav2q67eujxnpn/lib
 THIRDPARTY_VORBIS_INCLUDE_URL:STRING=https://www.dropbox.com/s/erbp79zazwqsknv/libvorbis_includes.tar.gz?dl=0
 
 //The URL for Release Bullet3
+THIRDPARTY_VORBIS_MINSIZEREL_URL:STRING=https://www.dropbox.com/s/4g1l8j99ep9oe7e/libvorbis_macos_MinsizeRel.tar.gz?dl=0
+
+//The URL for Release Bullet3
 THIRDPARTY_VORBIS_RELEASE_URL:STRING=https://www.dropbox.com/s/9bs3e8ibm4w5bh8/libvorbis_macos_Release.tar.gz?dl=0
+
+//The URL for Release Bullet3
+THIRDPARTY_VORBIS_RELWITHDEBUGINFO_URL:STRING=https://www.dropbox.com/s/ej57zuqkxtvr1mr/libvorbis_macos_RelWithDebugInfo.tar.gz?dl=0
 
 //fmod include
 USE_BULLET3_LIBRARY:BOOL=ON
@@ -816,7 +966,13 @@ glm_URL_INCLUDE:STRING=https://www.dropbox.com/s/fferowgwlio96m5/libglm_includes
 imgui_LIBRARY_DEBUG:FILEPATH=/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/imgui/lib/macos/Debug/libimgui.a
 
 //Path to a library.
+imgui_LIBRARY_MINSIZEREL:FILEPATH=/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/imgui/lib/macos/MinSizeRel/libimgui.a
+
+//Path to a library.
 imgui_LIBRARY_RELEASE:FILEPATH=/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/imgui/lib/macos/Release/libimgui.a
+
+//Path to a library.
+imgui_LIBRARY_RELWITHDEBINFO:FILEPATH=imgui_LIBRARY_RELWITHDEBINFO-NOTFOUND
 
 //The URL for the include files for thirdparty/imgui/lib/macos/include
 imgui_URL_INCLUDE:STRING=https://www.dropbox.com/s/xhauwvyy48g5dd7/libimgui_includes.tar.gz?dl=0
@@ -825,7 +981,13 @@ imgui_URL_INCLUDE:STRING=https://www.dropbox.com/s/xhauwvyy48g5dd7/libimgui_incl
 ogg_LIBRARY_DEBUG:FILEPATH=/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/ogg/lib/macos/Debug/libogg.a
 
 //Path to a library.
+ogg_LIBRARY_MINSIZEREL:FILEPATH=/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/ogg/lib/macos/MinSizeRel/libogg.a
+
+//Path to a library.
 ogg_LIBRARY_RELEASE:FILEPATH=/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/ogg/lib/macos/Release/libogg.a
+
+//Path to a library.
+ogg_LIBRARY_RELWITHDEBINFO:FILEPATH=ogg_LIBRARY_RELWITHDEBINFO-NOTFOUND
 
 //The URL for the include files for thirdparty/ogg/lib/macos/include
 ogg_URL_INCLUDE:STRING=https://www.dropbox.com/s/agc7zmqg9m64x9i/libogg_includes.tar.gz?dl=0
@@ -840,7 +1002,13 @@ stbimages_URL_INCLUDE:STRING=https://www.dropbox.com/s/u9c4ruts1wac41k/stb_image
 vorbis_LIBRARY_DEBUG:FILEPATH=/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/Debug/libvorbis.a
 
 //Path to a library.
+vorbis_LIBRARY_MINSIZEREL:FILEPATH=/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/MinSizeRel/libvorbis.a
+
+//Path to a library.
 vorbis_LIBRARY_RELEASE:FILEPATH=/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/Release/libvorbis.a
+
+//Path to a library.
+vorbis_LIBRARY_RELWITHDEBINFO:FILEPATH=vorbis_LIBRARY_RELWITHDEBINFO-NOTFOUND
 
 //The URL for the include files for thirdparty/vorbis/lib/macos/include
 vorbis_URL_INCLUDE:STRING=https://www.dropbox.com/s/erbp79zazwqsknv/libvorbis_includes.tar.gz?dl=0
@@ -849,13 +1017,25 @@ vorbis_URL_INCLUDE:STRING=https://www.dropbox.com/s/erbp79zazwqsknv/libvorbis_in
 vorbisenc_LIBRARY_DEBUG:FILEPATH=/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/Debug/libvorbisenc.a
 
 //Path to a library.
+vorbisenc_LIBRARY_MINSIZEREL:FILEPATH=/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/MinSizeRel/libvorbisenc.a
+
+//Path to a library.
 vorbisenc_LIBRARY_RELEASE:FILEPATH=/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/Release/libvorbisenc.a
+
+//Path to a library.
+vorbisenc_LIBRARY_RELWITHDEBINFO:FILEPATH=vorbisenc_LIBRARY_RELWITHDEBINFO-NOTFOUND
 
 //Path to a library.
 vorbisfile_LIBRARY_DEBUG:FILEPATH=/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/Debug/libvorbisfile.a
 
 //Path to a library.
+vorbisfile_LIBRARY_MINSIZEREL:FILEPATH=/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/MinSizeRel/libvorbisfile.a
+
+//Path to a library.
 vorbisfile_LIBRARY_RELEASE:FILEPATH=/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/Release/libvorbisfile.a
+
+//Path to a library.
+vorbisfile_LIBRARY_RELWITHDEBINFO:FILEPATH=vorbisfile_LIBRARY_RELWITHDEBINFO-NOTFOUND
 
 
 ########################
@@ -863,7 +1043,7 @@ vorbisfile_LIBRARY_RELEASE:FILEPATH=/Users/jamesfolk/Work/test_project_repo/buil
 ########################
 
 //Stored Xcode object GUID
-ALL_BUILD_GUID_CMAKE:INTERNAL=C74663EB622A4E148B1ECE92
+ALL_BUILD_GUID_CMAKE:INTERNAL=B4DB4400E3B84C98A74A69D2
 //ADVANCED property for variable: BULLET3_INCLUDE_DIR
 BULLET3_INCLUDE_DIR-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: Bullet2FileLoader_LIBRARY_DEBUG
@@ -1420,29 +1600,29 @@ LinearMath_LIBRARY_DEBUG-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: LinearMath_LIBRARY_RELEASE
 LinearMath_LIBRARY_RELEASE-ADVANCED:INTERNAL=1
 //Stored Xcode object GUID
-NJLIC-documentation_GUID_CMAKE:INTERNAL=FA172EA3A921459AADDE2D12
+NJLIC-documentation_GUID_CMAKE:INTERNAL=F7D1BCBB9520492D916CF3EA
 //Stored Xcode object GUID
-NJLIC-exe_GUID_CMAKE:INTERNAL=525C8C67A52F4445B876A64C
+NJLIC-exe_GUID_CMAKE:INTERNAL=E13EE4BC94D94FC2A0B2D9CE
 //Stored Xcode object GUID
-NJLIC-lua-swig-bullet3-module_GUID_CMAKE:INTERNAL=4A676378889D4F70B7770A7F
+NJLIC-lua-swig-bullet3-module_GUID_CMAKE:INTERNAL=ACFD22496A304880974C127E
 //Stored Xcode object GUID
-NJLIC-lua-swig-bullet3-static_GUID_CMAKE:INTERNAL=F5157EF54DE64362A60FD270
+NJLIC-lua-swig-bullet3-static_GUID_CMAKE:INTERNAL=BCF8BE9EBA464F959264ACC4
 //Stored Xcode object GUID
-NJLIC-lua-swig-bullet3_GUID_CMAKE:INTERNAL=B1580386B7D6419AB8C4B898
+NJLIC-lua-swig-bullet3_GUID_CMAKE:INTERNAL=C4D7E6E1F4614363B05ABEBB
 //Stored Xcode object GUID
-NJLIC-lua-swig-njlic-module_GUID_CMAKE:INTERNAL=368D19C27ABC461BACA62F20
+NJLIC-lua-swig-njlic-module_GUID_CMAKE:INTERNAL=C510058F851F407CB50F69C0
 //Stored Xcode object GUID
-NJLIC-lua-swig-njlic-static_GUID_CMAKE:INTERNAL=9D8E1C2318FE4B64A63DF247
+NJLIC-lua-swig-njlic-static_GUID_CMAKE:INTERNAL=0D0CD01103884BA8922F38EC
 //Stored Xcode object GUID
-NJLIC-lua-swig-njlic_GUID_CMAKE:INTERNAL=3707E60C862C4D59A79F1C00
+NJLIC-lua-swig-njlic_GUID_CMAKE:INTERNAL=FAF9631FB12E429482A2FA82
 //Stored Xcode object GUID
-NJLIC-static_GUID_CMAKE:INTERNAL=B8548CDFA6A44D13AA73FC5D
+NJLIC-static_GUID_CMAKE:INTERNAL=D672B91633024511ACE5E3CC
 //Stored Xcode object GUID
-NJLICFramework_GUID_CMAKE:INTERNAL=94CBDA3F3803406886750E72
+NJLICFramework_GUID_CMAKE:INTERNAL=BEBC3AD7021143B49DA54463
 //STRINGS property for variable: NJLIC_GRAPHICS_PLATFORM
 NJLIC_GRAPHICS_PLATFORM-STRINGS:INTERNAL=opengl_2;opengl_3
 //Stored Xcode object GUID
-NJLIC_GUID_CMAKE:INTERNAL=39B9F5653BA042EE8BFE4DD9
+NJLIC_GUID_CMAKE:INTERNAL=CEBF1F4FDA054067B6E2490F
 //STRINGS property for variable: NJLIC_SOUND_PLATFORM
 NJLIC_SOUND_PLATFORM-STRINGS:INTERNAL=openal;fmod;sdl
 //ADVANCED property for variable: OGG_INCLUDE_DIR
@@ -1450,7 +1630,7 @@ OGG_INCLUDE_DIR-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: PKG_CONFIG_EXECUTABLE
 PKG_CONFIG_EXECUTABLE-ADVANCED:INTERNAL=1
 //Stored Xcode object GUID
-PROJECT_NJLIC_GUID_CMAKE:INTERNAL=FC24DCCE061D400C9290D0E5
+PROJECT_NJLIC_GUID_CMAKE:INTERNAL=9C7CCEE69DA541E6B8665C9E
 //ADVANCED property for variable: SDL2_INCLUDE_DIR
 SDL2_INCLUDE_DIR-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: SDL2_LIBRARY_DEBUG
@@ -1470,31 +1650,31 @@ SWIG_VERSION-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: VORBIS_INCLUDE_DIR
 VORBIS_INCLUDE_DIR-ADVANCED:INTERNAL=1
 //Stored Xcode object GUID
-ZERO_CHECK_GUID_CMAKE:INTERNAL=2F7637D8409C486EA78399AB
+ZERO_CHECK_GUID_CMAKE:INTERNAL=4648804D6B0D45069A8ECDBC
 //CMAKE_INSTALL_PREFIX during last run
-_GNUInstallDirs_LAST_CMAKE_INSTALL_PREFIX:INTERNAL=/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/install/Release
+_GNUInstallDirs_LAST_CMAKE_INSTALL_PREFIX:INTERNAL=/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/install/Debug
 //Stored Xcode object GUID
-clang-format_GUID_CMAKE:INTERNAL=745F2F3CAFC342859665B411
+clang-format_GUID_CMAKE:INTERNAL=AA6F2B72A50E4D34B8A9868E
 //Stored Xcode object GUID
-cppcheck_GUID_CMAKE:INTERNAL=EC2F4A68E9994D54B828F916
+cppcheck_GUID_CMAKE:INTERNAL=66BFB07E8AB249A2AFDD9A80
 //ADVANCED property for variable: imgui_LIBRARY_DEBUG
 imgui_LIBRARY_DEBUG-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: imgui_LIBRARY_RELEASE
 imgui_LIBRARY_RELEASE-ADVANCED:INTERNAL=1
 //Stored Xcode object GUID
-install_GUID_CMAKE:INTERNAL=C51061CB872844CBB8AAA508
+install_GUID_CMAKE:INTERNAL=D0388D35CF164EECBCA9C974
 //Stored Xcode object GUID
-lua_GUID_CMAKE:INTERNAL=D0B0DF0023F64AC9895019D2
+lua_GUID_CMAKE:INTERNAL=D382FC2C448D49F28FE93381
 //Stored Xcode object GUID
-luac_GUID_CMAKE:INTERNAL=AFB5A244C65B47EEB25BD184
+luac_GUID_CMAKE:INTERNAL=13D9559FCB134A36B5706BFC
 //ADVANCED property for variable: ogg_LIBRARY_DEBUG
 ogg_LIBRARY_DEBUG-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: ogg_LIBRARY_RELEASE
 ogg_LIBRARY_RELEASE-ADVANCED:INTERNAL=1
 //Stored Xcode object GUID
-package_GUID_CMAKE:INTERNAL=647B32D686534C7CA590F994
+package_GUID_CMAKE:INTERNAL=CB1E6B78A6984BCE8C09C4C9
 //Stored Xcode object GUID
-uninstall_GUID_CMAKE:INTERNAL=5C2E841CF3A94253AA66E516
+uninstall_GUID_CMAKE:INTERNAL=F431F77E0B0544B6938C5AF1
 //ADVANCED property for variable: vorbis_LIBRARY_DEBUG
 vorbis_LIBRARY_DEBUG-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: vorbis_LIBRARY_RELEASE

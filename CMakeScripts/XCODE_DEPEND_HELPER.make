@@ -1650,60 +1650,60 @@ PostBuild.NJLIC-lua-swig-bullet3-static.RelWithDebInfo: /Users/jamesfolk/Work/te
 PostBuild.NJLIC-static.RelWithDebInfo: /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/libNJLIC.dylib
 PostBuild.NJLIC-lua-swig-njlic-static.RelWithDebInfo: /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/libNJLIC.dylib
 /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/libNJLIC.dylib:\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet2FileLoader.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet3Collision.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet3Common.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet3Dynamics.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet3Geometry.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet3OpenCL_clew.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletCollision.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletDynamics.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletFileLoader.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletInverseDynamics.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletInverseDynamicsUtils.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletSoftBody.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletWorldImporter.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletXmlWorldImporter.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libConvexDecomposition.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libGIMPACTUtils.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libHACD.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libLinearMath.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/imgui/lib/macos/Debug/libimgui.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/ImGuizmo/lib/macos/Debug/libImGuizmo.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/ogg/lib/macos/Debug/libogg.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/Debug/libvorbis.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/Debug/libvorbisenc.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/Debug/libvorbisfile.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet2FileLoader.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet3Collision.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet3Common.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet3Dynamics.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet3Geometry.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet3OpenCL_clew.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletCollision.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletDynamics.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletFileLoader.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletInverseDynamics.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletInverseDynamicsUtils.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletSoftBody.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletWorldImporter.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletXmlWorldImporter.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libConvexDecomposition.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libGIMPACTUtils.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libHACD.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libLinearMath.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/imgui/lib/macos/RelWithDebInfo/libimgui.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/ImGuizmo/lib/macos/RelWithDebInfo/libImGuizmo.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/ogg/lib/macos/RelWithDebInfo/libogg.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbis.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbisenc.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbisfile.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/sdl2/lib/macos/Debug/libSDL2.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/libNJLIC-lua-swig-njlic-static.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/libNJLIC-lua-swig-bullet3-static.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/libNJLIC-static.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/libNJLIC-lua-swig-bullet3-static.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/libNJLIC-static.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet2FileLoader.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet3Collision.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet3Common.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet3Dynamics.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet3Geometry.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet3OpenCL_clew.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletCollision.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletDynamics.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletFileLoader.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletInverseDynamics.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletInverseDynamicsUtils.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletSoftBody.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletWorldImporter.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletXmlWorldImporter.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libConvexDecomposition.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libGIMPACTUtils.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libHACD.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libLinearMath.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/imgui/lib/macos/Debug/libimgui.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/ImGuizmo/lib/macos/Debug/libImGuizmo.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/ogg/lib/macos/Debug/libogg.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/Debug/libvorbis.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/Debug/libvorbisenc.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/Debug/libvorbisfile.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet2FileLoader.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet3Collision.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet3Common.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet3Dynamics.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet3Geometry.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet3OpenCL_clew.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletCollision.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletDynamics.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletFileLoader.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletInverseDynamics.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletInverseDynamicsUtils.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletSoftBody.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletWorldImporter.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletXmlWorldImporter.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libConvexDecomposition.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libGIMPACTUtils.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libHACD.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libLinearMath.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/imgui/lib/macos/RelWithDebInfo/libimgui.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/ImGuizmo/lib/macos/RelWithDebInfo/libImGuizmo.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/ogg/lib/macos/RelWithDebInfo/libogg.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbis.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbisenc.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbisfile.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/sdl2/lib/macos/Debug/libSDL2.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/libNJLIC-lua-swig-njlic-static.a
 	/bin/rm -f /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/libNJLIC.dylib
@@ -1717,60 +1717,60 @@ PostBuild.NJLIC-lua-swig-bullet3-static.RelWithDebInfo: /Users/jamesfolk/Work/te
 PostBuild.NJLIC-static.RelWithDebInfo: /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/NJLIC-exe.app/Contents/MacOS/NJLIC-exe
 PostBuild.NJLIC-lua-swig-njlic-static.RelWithDebInfo: /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/NJLIC-exe.app/Contents/MacOS/NJLIC-exe
 /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/NJLIC-exe.app/Contents/MacOS/NJLIC-exe:\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet2FileLoader.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet3Collision.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet3Common.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet3Dynamics.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet3Geometry.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet3OpenCL_clew.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletCollision.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletDynamics.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletFileLoader.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletInverseDynamics.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletInverseDynamicsUtils.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletSoftBody.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletWorldImporter.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletXmlWorldImporter.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libConvexDecomposition.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libGIMPACTUtils.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libHACD.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libLinearMath.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/imgui/lib/macos/Debug/libimgui.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/ImGuizmo/lib/macos/Debug/libImGuizmo.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/ogg/lib/macos/Debug/libogg.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/Debug/libvorbis.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/Debug/libvorbisenc.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/Debug/libvorbisfile.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet2FileLoader.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet3Collision.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet3Common.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet3Dynamics.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet3Geometry.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet3OpenCL_clew.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletCollision.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletDynamics.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletFileLoader.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletInverseDynamics.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletInverseDynamicsUtils.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletSoftBody.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletWorldImporter.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletXmlWorldImporter.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libConvexDecomposition.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libGIMPACTUtils.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libHACD.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libLinearMath.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/imgui/lib/macos/RelWithDebInfo/libimgui.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/ImGuizmo/lib/macos/RelWithDebInfo/libImGuizmo.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/ogg/lib/macos/RelWithDebInfo/libogg.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbis.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbisenc.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbisfile.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/sdl2/lib/macos/Debug/libSDL2.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/libNJLIC-lua-swig-njlic-static.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/libNJLIC-lua-swig-bullet3-static.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/libNJLIC-static.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/libNJLIC-lua-swig-bullet3-static.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/libNJLIC-static.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet2FileLoader.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet3Collision.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet3Common.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet3Dynamics.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet3Geometry.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet3OpenCL_clew.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletCollision.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletDynamics.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletFileLoader.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletInverseDynamics.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletInverseDynamicsUtils.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletSoftBody.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletWorldImporter.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletXmlWorldImporter.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libConvexDecomposition.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libGIMPACTUtils.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libHACD.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libLinearMath.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/imgui/lib/macos/Debug/libimgui.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/ImGuizmo/lib/macos/Debug/libImGuizmo.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/ogg/lib/macos/Debug/libogg.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/Debug/libvorbis.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/Debug/libvorbisenc.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/Debug/libvorbisfile.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet2FileLoader.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet3Collision.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet3Common.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet3Dynamics.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet3Geometry.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet3OpenCL_clew.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletCollision.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletDynamics.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletFileLoader.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletInverseDynamics.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletInverseDynamicsUtils.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletSoftBody.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletWorldImporter.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletXmlWorldImporter.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libConvexDecomposition.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libGIMPACTUtils.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libHACD.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libLinearMath.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/imgui/lib/macos/RelWithDebInfo/libimgui.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/ImGuizmo/lib/macos/RelWithDebInfo/libImGuizmo.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/ogg/lib/macos/RelWithDebInfo/libogg.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbis.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbisenc.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbisfile.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/sdl2/lib/macos/Debug/libSDL2.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/libNJLIC-lua-swig-njlic-static.a
 	/bin/rm -f /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/NJLIC-exe.app/Contents/MacOS/NJLIC-exe
@@ -1785,59 +1785,59 @@ PostBuild.NJLIC-lua-swig-bullet3-static.RelWithDebInfo: /Users/jamesfolk/Work/te
 PostBuild.NJLIC-lua-swig-njlic-static.RelWithDebInfo: /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/libNJLIC-lua-swig-bullet3.dylib
 /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/libNJLIC-lua-swig-bullet3.dylib:\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/libNJLIC-static.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet2FileLoader.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet3Collision.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet3Common.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet3Dynamics.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet3Geometry.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet3OpenCL_clew.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletCollision.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletDynamics.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletFileLoader.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletInverseDynamics.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletInverseDynamicsUtils.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletSoftBody.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletWorldImporter.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletXmlWorldImporter.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libConvexDecomposition.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libGIMPACTUtils.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libHACD.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libLinearMath.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/imgui/lib/macos/Debug/libimgui.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/ImGuizmo/lib/macos/Debug/libImGuizmo.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/ogg/lib/macos/Debug/libogg.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/Debug/libvorbis.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/Debug/libvorbisenc.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/Debug/libvorbisfile.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet2FileLoader.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet3Collision.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet3Common.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet3Dynamics.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet3Geometry.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet3OpenCL_clew.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletCollision.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletDynamics.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletFileLoader.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletInverseDynamics.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletInverseDynamicsUtils.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletSoftBody.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletWorldImporter.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletXmlWorldImporter.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libConvexDecomposition.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libGIMPACTUtils.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libHACD.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libLinearMath.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/imgui/lib/macos/RelWithDebInfo/libimgui.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/ImGuizmo/lib/macos/RelWithDebInfo/libImGuizmo.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/ogg/lib/macos/RelWithDebInfo/libogg.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbis.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbisenc.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbisfile.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/sdl2/lib/macos/Debug/libSDL2.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/libNJLIC-lua-swig-njlic-static.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/libNJLIC-lua-swig-bullet3-static.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/libNJLIC-static.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/libNJLIC-lua-swig-bullet3-static.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet2FileLoader.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet3Collision.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet3Common.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet3Dynamics.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet3Geometry.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet3OpenCL_clew.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletCollision.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletDynamics.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletFileLoader.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletInverseDynamics.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletInverseDynamicsUtils.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletSoftBody.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletWorldImporter.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletXmlWorldImporter.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libConvexDecomposition.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libGIMPACTUtils.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libHACD.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libLinearMath.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/imgui/lib/macos/Debug/libimgui.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/ImGuizmo/lib/macos/Debug/libImGuizmo.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/ogg/lib/macos/Debug/libogg.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/Debug/libvorbis.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/Debug/libvorbisenc.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/Debug/libvorbisfile.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet2FileLoader.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet3Collision.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet3Common.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet3Dynamics.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet3Geometry.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet3OpenCL_clew.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletCollision.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletDynamics.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletFileLoader.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletInverseDynamics.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletInverseDynamicsUtils.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletSoftBody.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletWorldImporter.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletXmlWorldImporter.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libConvexDecomposition.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libGIMPACTUtils.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libHACD.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libLinearMath.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/imgui/lib/macos/RelWithDebInfo/libimgui.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/ImGuizmo/lib/macos/RelWithDebInfo/libImGuizmo.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/ogg/lib/macos/RelWithDebInfo/libogg.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbis.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbisenc.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbisfile.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/sdl2/lib/macos/Debug/libSDL2.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/libNJLIC-lua-swig-njlic-static.a
 	/bin/rm -f /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/libNJLIC-lua-swig-bullet3.dylib
@@ -1852,59 +1852,59 @@ PostBuild.NJLIC-lua-swig-bullet3-static.RelWithDebInfo: /Users/jamesfolk/Work/te
 PostBuild.NJLIC-lua-swig-njlic-static.RelWithDebInfo: /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/NJLIC-lua-swig-bullet3-module.so
 /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/NJLIC-lua-swig-bullet3-module.so:\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/libNJLIC-static.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet2FileLoader.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet3Collision.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet3Common.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet3Dynamics.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet3Geometry.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet3OpenCL_clew.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletCollision.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletDynamics.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletFileLoader.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletInverseDynamics.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletInverseDynamicsUtils.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletSoftBody.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletWorldImporter.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletXmlWorldImporter.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libConvexDecomposition.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libGIMPACTUtils.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libHACD.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libLinearMath.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/imgui/lib/macos/Debug/libimgui.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/ImGuizmo/lib/macos/Debug/libImGuizmo.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/ogg/lib/macos/Debug/libogg.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/Debug/libvorbis.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/Debug/libvorbisenc.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/Debug/libvorbisfile.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet2FileLoader.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet3Collision.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet3Common.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet3Dynamics.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet3Geometry.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet3OpenCL_clew.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletCollision.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletDynamics.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletFileLoader.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletInverseDynamics.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletInverseDynamicsUtils.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletSoftBody.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletWorldImporter.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletXmlWorldImporter.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libConvexDecomposition.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libGIMPACTUtils.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libHACD.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libLinearMath.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/imgui/lib/macos/RelWithDebInfo/libimgui.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/ImGuizmo/lib/macos/RelWithDebInfo/libImGuizmo.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/ogg/lib/macos/RelWithDebInfo/libogg.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbis.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbisenc.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbisfile.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/sdl2/lib/macos/Debug/libSDL2.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/libNJLIC-lua-swig-njlic-static.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/libNJLIC-lua-swig-bullet3-static.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/libNJLIC-static.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/libNJLIC-lua-swig-bullet3-static.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet2FileLoader.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet3Collision.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet3Common.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet3Dynamics.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet3Geometry.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet3OpenCL_clew.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletCollision.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletDynamics.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletFileLoader.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletInverseDynamics.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletInverseDynamicsUtils.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletSoftBody.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletWorldImporter.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletXmlWorldImporter.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libConvexDecomposition.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libGIMPACTUtils.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libHACD.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libLinearMath.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/imgui/lib/macos/Debug/libimgui.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/ImGuizmo/lib/macos/Debug/libImGuizmo.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/ogg/lib/macos/Debug/libogg.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/Debug/libvorbis.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/Debug/libvorbisenc.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/Debug/libvorbisfile.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet2FileLoader.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet3Collision.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet3Common.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet3Dynamics.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet3Geometry.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet3OpenCL_clew.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletCollision.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletDynamics.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletFileLoader.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletInverseDynamics.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletInverseDynamicsUtils.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletSoftBody.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletWorldImporter.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletXmlWorldImporter.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libConvexDecomposition.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libGIMPACTUtils.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libHACD.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libLinearMath.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/imgui/lib/macos/RelWithDebInfo/libimgui.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/ImGuizmo/lib/macos/RelWithDebInfo/libImGuizmo.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/ogg/lib/macos/RelWithDebInfo/libogg.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbis.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbisenc.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbisfile.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/sdl2/lib/macos/Debug/libSDL2.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/libNJLIC-lua-swig-njlic-static.a
 	/bin/rm -f /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/NJLIC-lua-swig-bullet3-module.so
@@ -1926,30 +1926,30 @@ PostBuild.NJLIC-lua-swig-njlic-static.RelWithDebInfo: /Users/jamesfolk/Work/test
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/libNJLIC-lua-swig-bullet3-static.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/libNJLIC-static.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/libNJLIC-lua-swig-bullet3-static.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet2FileLoader.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet3Collision.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet3Common.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet3Dynamics.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet3Geometry.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet3OpenCL_clew.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletCollision.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletDynamics.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletFileLoader.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletInverseDynamics.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletInverseDynamicsUtils.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletSoftBody.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletWorldImporter.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletXmlWorldImporter.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libConvexDecomposition.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libGIMPACTUtils.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libHACD.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libLinearMath.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/imgui/lib/macos/Debug/libimgui.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/ImGuizmo/lib/macos/Debug/libImGuizmo.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/ogg/lib/macos/Debug/libogg.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/Debug/libvorbis.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/Debug/libvorbisenc.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/Debug/libvorbisfile.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet2FileLoader.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet3Collision.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet3Common.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet3Dynamics.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet3Geometry.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet3OpenCL_clew.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletCollision.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletDynamics.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletFileLoader.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletInverseDynamics.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletInverseDynamicsUtils.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletSoftBody.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletWorldImporter.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletXmlWorldImporter.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libConvexDecomposition.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libGIMPACTUtils.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libHACD.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libLinearMath.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/imgui/lib/macos/RelWithDebInfo/libimgui.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/ImGuizmo/lib/macos/RelWithDebInfo/libImGuizmo.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/ogg/lib/macos/RelWithDebInfo/libogg.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbis.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbisenc.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbisfile.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/sdl2/lib/macos/Debug/libSDL2.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/libNJLIC-lua-swig-njlic-static.a
 	/bin/rm -f /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/libNJLIC-lua-swig-njlic.dylib
@@ -1966,30 +1966,30 @@ PostBuild.NJLIC-lua-swig-njlic-static.RelWithDebInfo: /Users/jamesfolk/Work/test
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/libNJLIC-lua-swig-bullet3-static.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/libNJLIC-static.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/libNJLIC-lua-swig-bullet3-static.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet2FileLoader.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet3Collision.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet3Common.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet3Dynamics.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet3Geometry.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet3OpenCL_clew.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletCollision.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletDynamics.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletFileLoader.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletInverseDynamics.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletInverseDynamicsUtils.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletSoftBody.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletWorldImporter.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletXmlWorldImporter.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libConvexDecomposition.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libGIMPACTUtils.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libHACD.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libLinearMath.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/imgui/lib/macos/Debug/libimgui.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/ImGuizmo/lib/macos/Debug/libImGuizmo.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/ogg/lib/macos/Debug/libogg.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/Debug/libvorbis.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/Debug/libvorbisenc.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/Debug/libvorbisfile.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet2FileLoader.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet3Collision.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet3Common.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet3Dynamics.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet3Geometry.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet3OpenCL_clew.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletCollision.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletDynamics.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletFileLoader.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletInverseDynamics.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletInverseDynamicsUtils.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletSoftBody.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletWorldImporter.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletXmlWorldImporter.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libConvexDecomposition.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libGIMPACTUtils.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libHACD.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libLinearMath.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/imgui/lib/macos/RelWithDebInfo/libimgui.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/ImGuizmo/lib/macos/RelWithDebInfo/libImGuizmo.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/ogg/lib/macos/RelWithDebInfo/libogg.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbis.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbisenc.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbisfile.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/sdl2/lib/macos/Debug/libSDL2.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/libNJLIC-lua-swig-njlic-static.a
 	/bin/rm -f /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/NJLIC-lua-swig-njlic-module.so
@@ -2013,60 +2013,60 @@ PostBuild.NJLIC-lua-swig-bullet3-static.RelWithDebInfo: /Users/jamesfolk/Work/te
 PostBuild.NJLIC-static.RelWithDebInfo: /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/NJLICFramework.framework/NJLICFramework
 PostBuild.NJLIC-lua-swig-njlic-static.RelWithDebInfo: /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/NJLICFramework.framework/NJLICFramework
 /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/NJLICFramework.framework/NJLICFramework:\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet2FileLoader.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet3Collision.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet3Common.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet3Dynamics.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet3Geometry.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet3OpenCL_clew.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletCollision.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletDynamics.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletFileLoader.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletInverseDynamics.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletInverseDynamicsUtils.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletSoftBody.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletWorldImporter.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletXmlWorldImporter.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libConvexDecomposition.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libGIMPACTUtils.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libHACD.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libLinearMath.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/imgui/lib/macos/Debug/libimgui.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/ImGuizmo/lib/macos/Debug/libImGuizmo.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/ogg/lib/macos/Debug/libogg.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/Debug/libvorbis.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/Debug/libvorbisenc.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/Debug/libvorbisfile.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet2FileLoader.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet3Collision.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet3Common.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet3Dynamics.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet3Geometry.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet3OpenCL_clew.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletCollision.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletDynamics.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletFileLoader.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletInverseDynamics.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletInverseDynamicsUtils.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletSoftBody.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletWorldImporter.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletXmlWorldImporter.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libConvexDecomposition.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libGIMPACTUtils.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libHACD.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libLinearMath.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/imgui/lib/macos/RelWithDebInfo/libimgui.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/ImGuizmo/lib/macos/RelWithDebInfo/libImGuizmo.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/ogg/lib/macos/RelWithDebInfo/libogg.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbis.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbisenc.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbisfile.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/sdl2/lib/macos/Debug/libSDL2.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/libNJLIC-lua-swig-njlic-static.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/libNJLIC-lua-swig-bullet3-static.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/libNJLIC-static.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/libNJLIC-lua-swig-bullet3-static.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/libNJLIC-static.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet2FileLoader.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet3Collision.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet3Common.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet3Dynamics.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet3Geometry.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet3OpenCL_clew.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletCollision.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletDynamics.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletFileLoader.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletInverseDynamics.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletInverseDynamicsUtils.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletSoftBody.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletWorldImporter.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletXmlWorldImporter.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libConvexDecomposition.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libGIMPACTUtils.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libHACD.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libLinearMath.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/imgui/lib/macos/Debug/libimgui.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/ImGuizmo/lib/macos/Debug/libImGuizmo.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/ogg/lib/macos/Debug/libogg.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/Debug/libvorbis.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/Debug/libvorbisenc.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/Debug/libvorbisfile.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet2FileLoader.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet3Collision.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet3Common.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet3Dynamics.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet3Geometry.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet3OpenCL_clew.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletCollision.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletDynamics.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletFileLoader.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletInverseDynamics.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletInverseDynamicsUtils.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletSoftBody.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletWorldImporter.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletXmlWorldImporter.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libConvexDecomposition.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libGIMPACTUtils.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libHACD.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libLinearMath.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/imgui/lib/macos/RelWithDebInfo/libimgui.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/ImGuizmo/lib/macos/RelWithDebInfo/libImGuizmo.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/ogg/lib/macos/RelWithDebInfo/libogg.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbis.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbisenc.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbisfile.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/sdl2/lib/macos/Debug/libSDL2.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/libNJLIC-lua-swig-njlic-static.a
 	/bin/rm -f /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/NJLICFramework.framework/NJLICFramework
@@ -2080,60 +2080,60 @@ PostBuild.NJLIC-lua-swig-bullet3-static.RelWithDebInfo: /Users/jamesfolk/Work/te
 PostBuild.NJLIC-static.RelWithDebInfo: /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/lua.app/Contents/MacOS/lua
 PostBuild.NJLIC-lua-swig-njlic-static.RelWithDebInfo: /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/lua.app/Contents/MacOS/lua
 /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/lua.app/Contents/MacOS/lua:\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet2FileLoader.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet3Collision.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet3Common.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet3Dynamics.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet3Geometry.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet3OpenCL_clew.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletCollision.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletDynamics.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletFileLoader.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletInverseDynamics.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletInverseDynamicsUtils.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletSoftBody.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletWorldImporter.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletXmlWorldImporter.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libConvexDecomposition.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libGIMPACTUtils.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libHACD.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libLinearMath.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/imgui/lib/macos/Debug/libimgui.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/ImGuizmo/lib/macos/Debug/libImGuizmo.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/ogg/lib/macos/Debug/libogg.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/Debug/libvorbis.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/Debug/libvorbisenc.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/Debug/libvorbisfile.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet2FileLoader.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet3Collision.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet3Common.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet3Dynamics.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet3Geometry.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet3OpenCL_clew.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletCollision.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletDynamics.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletFileLoader.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletInverseDynamics.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletInverseDynamicsUtils.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletSoftBody.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletWorldImporter.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletXmlWorldImporter.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libConvexDecomposition.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libGIMPACTUtils.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libHACD.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libLinearMath.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/imgui/lib/macos/RelWithDebInfo/libimgui.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/ImGuizmo/lib/macos/RelWithDebInfo/libImGuizmo.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/ogg/lib/macos/RelWithDebInfo/libogg.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbis.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbisenc.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbisfile.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/sdl2/lib/macos/Debug/libSDL2.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/libNJLIC-lua-swig-njlic-static.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/libNJLIC-lua-swig-bullet3-static.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/libNJLIC-static.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/libNJLIC-lua-swig-bullet3-static.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/libNJLIC-static.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet2FileLoader.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet3Collision.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet3Common.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet3Dynamics.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet3Geometry.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet3OpenCL_clew.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletCollision.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletDynamics.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletFileLoader.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletInverseDynamics.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletInverseDynamicsUtils.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletSoftBody.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletWorldImporter.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletXmlWorldImporter.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libConvexDecomposition.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libGIMPACTUtils.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libHACD.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libLinearMath.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/imgui/lib/macos/Debug/libimgui.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/ImGuizmo/lib/macos/Debug/libImGuizmo.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/ogg/lib/macos/Debug/libogg.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/Debug/libvorbis.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/Debug/libvorbisenc.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/Debug/libvorbisfile.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet2FileLoader.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet3Collision.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet3Common.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet3Dynamics.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet3Geometry.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet3OpenCL_clew.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletCollision.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletDynamics.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletFileLoader.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletInverseDynamics.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletInverseDynamicsUtils.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletSoftBody.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletWorldImporter.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletXmlWorldImporter.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libConvexDecomposition.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libGIMPACTUtils.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libHACD.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libLinearMath.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/imgui/lib/macos/RelWithDebInfo/libimgui.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/ImGuizmo/lib/macos/RelWithDebInfo/libImGuizmo.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/ogg/lib/macos/RelWithDebInfo/libogg.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbis.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbisenc.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbisfile.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/sdl2/lib/macos/Debug/libSDL2.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/libNJLIC-lua-swig-njlic-static.a
 	/bin/rm -f /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/lua.app/Contents/MacOS/lua
@@ -2147,60 +2147,60 @@ PostBuild.NJLIC-lua-swig-bullet3-static.RelWithDebInfo: /Users/jamesfolk/Work/te
 PostBuild.NJLIC-static.RelWithDebInfo: /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/luac.app/Contents/MacOS/luac
 PostBuild.NJLIC-lua-swig-njlic-static.RelWithDebInfo: /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/luac.app/Contents/MacOS/luac
 /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/luac.app/Contents/MacOS/luac:\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet2FileLoader.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet3Collision.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet3Common.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet3Dynamics.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet3Geometry.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet3OpenCL_clew.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletCollision.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletDynamics.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletFileLoader.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletInverseDynamics.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletInverseDynamicsUtils.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletSoftBody.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletWorldImporter.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletXmlWorldImporter.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libConvexDecomposition.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libGIMPACTUtils.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libHACD.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libLinearMath.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/imgui/lib/macos/Debug/libimgui.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/ImGuizmo/lib/macos/Debug/libImGuizmo.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/ogg/lib/macos/Debug/libogg.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/Debug/libvorbis.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/Debug/libvorbisenc.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/Debug/libvorbisfile.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet2FileLoader.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet3Collision.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet3Common.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet3Dynamics.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet3Geometry.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet3OpenCL_clew.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletCollision.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletDynamics.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletFileLoader.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletInverseDynamics.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletInverseDynamicsUtils.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletSoftBody.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletWorldImporter.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletXmlWorldImporter.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libConvexDecomposition.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libGIMPACTUtils.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libHACD.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libLinearMath.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/imgui/lib/macos/RelWithDebInfo/libimgui.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/ImGuizmo/lib/macos/RelWithDebInfo/libImGuizmo.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/ogg/lib/macos/RelWithDebInfo/libogg.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbis.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbisenc.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbisfile.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/sdl2/lib/macos/Debug/libSDL2.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/libNJLIC-lua-swig-njlic-static.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/libNJLIC-lua-swig-bullet3-static.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/libNJLIC-static.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/libNJLIC-lua-swig-bullet3-static.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/libNJLIC-static.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet2FileLoader.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet3Collision.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet3Common.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet3Dynamics.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet3Geometry.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet3OpenCL_clew.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletCollision.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletDynamics.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletFileLoader.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletInverseDynamics.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletInverseDynamicsUtils.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletSoftBody.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletWorldImporter.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBulletXmlWorldImporter.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libConvexDecomposition.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libGIMPACTUtils.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libHACD.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libLinearMath.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/imgui/lib/macos/Debug/libimgui.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/ImGuizmo/lib/macos/Debug/libImGuizmo.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/ogg/lib/macos/Debug/libogg.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/Debug/libvorbis.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/Debug/libvorbisenc.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/Debug/libvorbisfile.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet2FileLoader.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet3Collision.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet3Common.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet3Dynamics.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet3Geometry.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet3OpenCL_clew.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletCollision.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletDynamics.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletFileLoader.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletInverseDynamics.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletInverseDynamicsUtils.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletSoftBody.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletWorldImporter.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletXmlWorldImporter.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libConvexDecomposition.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libGIMPACTUtils.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libHACD.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libLinearMath.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/imgui/lib/macos/RelWithDebInfo/libimgui.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/ImGuizmo/lib/macos/RelWithDebInfo/libImGuizmo.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/ogg/lib/macos/RelWithDebInfo/libogg.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbis.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbisenc.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbisfile.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/sdl2/lib/macos/Debug/libSDL2.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/libNJLIC-lua-swig-njlic-static.a
 	/bin/rm -f /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/luac.app/Contents/MacOS/luac
@@ -2223,6 +2223,7 @@ PostBuild.NJLIC-lua-swig-njlic-static.RelWithDebInfo: /Users/jamesfolk/Work/test
 /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/Release/libNJLIC-static.a:
 /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/ImGuizmo/lib/macos/Debug/libImGuizmo.a:
 /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/ImGuizmo/lib/macos/MinSizeRel/libImGuizmo.a:
+/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/ImGuizmo/lib/macos/RelWithDebInfo/libImGuizmo.a:
 /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/ImGuizmo/lib/macos/Release/libImGuizmo.a:
 /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet2FileLoader.a:
 /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet3Collision.a:
@@ -2260,6 +2261,24 @@ PostBuild.NJLIC-lua-swig-njlic-static.RelWithDebInfo: /Users/jamesfolk/Work/test
 /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/MinSizeRel/libGIMPACTUtils.a:
 /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/MinSizeRel/libHACD.a:
 /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/MinSizeRel/libLinearMath.a:
+/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet2FileLoader.a:
+/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet3Collision.a:
+/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet3Common.a:
+/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet3Dynamics.a:
+/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet3Geometry.a:
+/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet3OpenCL_clew.a:
+/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletCollision.a:
+/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletDynamics.a:
+/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletFileLoader.a:
+/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletInverseDynamics.a:
+/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletInverseDynamicsUtils.a:
+/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletSoftBody.a:
+/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletWorldImporter.a:
+/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBulletXmlWorldImporter.a:
+/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libConvexDecomposition.a:
+/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libGIMPACTUtils.a:
+/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libHACD.a:
+/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libLinearMath.a:
 /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Release/libBullet2FileLoader.a:
 /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Release/libBullet3Collision.a:
 /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Release/libBullet3Common.a:
@@ -2280,9 +2299,11 @@ PostBuild.NJLIC-lua-swig-njlic-static.RelWithDebInfo: /Users/jamesfolk/Work/test
 /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Release/libLinearMath.a:
 /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/imgui/lib/macos/Debug/libimgui.a:
 /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/imgui/lib/macos/MinSizeRel/libimgui.a:
+/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/imgui/lib/macos/RelWithDebInfo/libimgui.a:
 /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/imgui/lib/macos/Release/libimgui.a:
 /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/ogg/lib/macos/Debug/libogg.a:
 /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/ogg/lib/macos/MinSizeRel/libogg.a:
+/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/ogg/lib/macos/RelWithDebInfo/libogg.a:
 /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/ogg/lib/macos/Release/libogg.a:
 /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/sdl2/lib/macos/Debug/libSDL2.a:
 /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/sdl2/lib/macos/Release/libSDL2.a:
@@ -2292,6 +2313,9 @@ PostBuild.NJLIC-lua-swig-njlic-static.RelWithDebInfo: /Users/jamesfolk/Work/test
 /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/MinSizeRel/libvorbis.a:
 /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/MinSizeRel/libvorbisenc.a:
 /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/MinSizeRel/libvorbisfile.a:
+/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbis.a:
+/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbisenc.a:
+/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbisfile.a:
 /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/Release/libvorbis.a:
 /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/Release/libvorbisenc.a:
 /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/Release/libvorbisfile.a:

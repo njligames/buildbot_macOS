@@ -25,6 +25,6 @@
 	<key>NSHumanReadableCopyright</key>
 	<string>Copyright © 2017 James Folk. All rights reserved.</string>
   <key>NSHighResolutionCapable</key>
-	<true/>
+	<false/>
 </dict>
 </plist>

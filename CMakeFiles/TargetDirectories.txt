@@ -13,6 +13,7 @@
 /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/CMakeFiles/cppcheck.dir
 /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/CMakeFiles/NJLIC-lua-swig-bullet3-static.dir
 /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/CMakeFiles/NJLIC-lua-swig-bullet3-module.dir
+/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/CMakeFiles/ZeroBrane-njlic-api.dir
 /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/CMakeFiles/NJLIC-lua-swig-bullet3.dir
 /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/CMakeFiles/NJLIC-lua-swig-njlic-static.dir
 /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/CMakeFiles/NJLIC-lua-swig-njlic.dir

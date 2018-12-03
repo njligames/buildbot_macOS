@@ -75,13 +75,13 @@ PostBuild.NJLIC-lua-swig-njlic-static.Debug: /Users/jamesfolk/Work/test_project_
 
 
 PostBuild.NJLIC-exe.Debug:
-PostBuild.NJLIC-lua-swig-njlic-static.Debug: /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/Debug/NJLIC-exe.app/Contents/MacOS/NJLIC-exe
-PostBuild.NJLIC-lua-swig-bullet3-static.Debug: /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/Debug/NJLIC-exe.app/Contents/MacOS/NJLIC-exe
-PostBuild.NJLIC-static.Debug: /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/Debug/NJLIC-exe.app/Contents/MacOS/NJLIC-exe
-PostBuild.NJLIC-lua-swig-bullet3-static.Debug: /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/Debug/NJLIC-exe.app/Contents/MacOS/NJLIC-exe
-PostBuild.NJLIC-static.Debug: /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/Debug/NJLIC-exe.app/Contents/MacOS/NJLIC-exe
-PostBuild.NJLIC-lua-swig-njlic-static.Debug: /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/Debug/NJLIC-exe.app/Contents/MacOS/NJLIC-exe
-/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/Debug/NJLIC-exe.app/Contents/MacOS/NJLIC-exe:\
+PostBuild.NJLIC-lua-swig-njlic-static.Debug: /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/Debug/PLACEHOLDER.app/Contents/MacOS/PLACEHOLDER
+PostBuild.NJLIC-lua-swig-bullet3-static.Debug: /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/Debug/PLACEHOLDER.app/Contents/MacOS/PLACEHOLDER
+PostBuild.NJLIC-static.Debug: /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/Debug/PLACEHOLDER.app/Contents/MacOS/PLACEHOLDER
+PostBuild.NJLIC-lua-swig-bullet3-static.Debug: /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/Debug/PLACEHOLDER.app/Contents/MacOS/PLACEHOLDER
+PostBuild.NJLIC-static.Debug: /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/Debug/PLACEHOLDER.app/Contents/MacOS/PLACEHOLDER
+PostBuild.NJLIC-lua-swig-njlic-static.Debug: /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/Debug/PLACEHOLDER.app/Contents/MacOS/PLACEHOLDER
+/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/Debug/PLACEHOLDER.app/Contents/MacOS/PLACEHOLDER:\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet3Collision.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet3Common.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet3Dynamics.a\
@@ -137,7 +137,7 @@ PostBuild.NJLIC-lua-swig-njlic-static.Debug: /Users/jamesfolk/Work/test_project_
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/sdl2/lib/macos/Debug/libSDL2.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/Debug/libNJLIC-lua-swig-njlic-staticd.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libBullet2FileLoader.a
-	/bin/rm -f /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/Debug/NJLIC-exe.app/Contents/MacOS/NJLIC-exe
+	/bin/rm -f /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/Debug/PLACEHOLDER.app/Contents/MacOS/PLACEHOLDER
 
 
 PostBuild.NJLIC-lua-swig-bullet3.Debug:
@@ -582,13 +582,13 @@ PostBuild.NJLIC-lua-swig-njlic-static.Release: /Users/jamesfolk/Work/test_projec
 
 
 PostBuild.NJLIC-exe.Release:
-PostBuild.NJLIC-lua-swig-njlic-static.Release: /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/Release/NJLIC-exe.app/Contents/MacOS/NJLIC-exe
-PostBuild.NJLIC-lua-swig-bullet3-static.Release: /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/Release/NJLIC-exe.app/Contents/MacOS/NJLIC-exe
-PostBuild.NJLIC-static.Release: /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/Release/NJLIC-exe.app/Contents/MacOS/NJLIC-exe
-PostBuild.NJLIC-lua-swig-bullet3-static.Release: /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/Release/NJLIC-exe.app/Contents/MacOS/NJLIC-exe
-PostBuild.NJLIC-static.Release: /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/Release/NJLIC-exe.app/Contents/MacOS/NJLIC-exe
-PostBuild.NJLIC-lua-swig-njlic-static.Release: /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/Release/NJLIC-exe.app/Contents/MacOS/NJLIC-exe
-/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/Release/NJLIC-exe.app/Contents/MacOS/NJLIC-exe:\
+PostBuild.NJLIC-lua-swig-njlic-static.Release: /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/Release/PLACEHOLDER.app/Contents/MacOS/PLACEHOLDER
+PostBuild.NJLIC-lua-swig-bullet3-static.Release: /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/Release/PLACEHOLDER.app/Contents/MacOS/PLACEHOLDER
+PostBuild.NJLIC-static.Release: /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/Release/PLACEHOLDER.app/Contents/MacOS/PLACEHOLDER
+PostBuild.NJLIC-lua-swig-bullet3-static.Release: /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/Release/PLACEHOLDER.app/Contents/MacOS/PLACEHOLDER
+PostBuild.NJLIC-static.Release: /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/Release/PLACEHOLDER.app/Contents/MacOS/PLACEHOLDER
+PostBuild.NJLIC-lua-swig-njlic-static.Release: /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/Release/PLACEHOLDER.app/Contents/MacOS/PLACEHOLDER
+/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/Release/PLACEHOLDER.app/Contents/MacOS/PLACEHOLDER:\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Release/libBullet2FileLoader.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Release/libBullet3Collision.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Release/libBullet3Common.a\
@@ -645,7 +645,7 @@ PostBuild.NJLIC-lua-swig-njlic-static.Release: /Users/jamesfolk/Work/test_projec
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/Release/libvorbisfile.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/sdl2/lib/macos/Release/libSDL2.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/Release/libNJLIC-lua-swig-njlic-static.a
-	/bin/rm -f /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/Release/NJLIC-exe.app/Contents/MacOS/NJLIC-exe
+	/bin/rm -f /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/Release/PLACEHOLDER.app/Contents/MacOS/PLACEHOLDER
 
 
 PostBuild.NJLIC-lua-swig-bullet3.Release:
@@ -1110,7 +1110,7 @@ PostBuild.NJLIC-lua-swig-njlic-static.MinSizeRel: /Users/jamesfolk/Work/test_pro
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/MinSizeRel/libvorbis.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/MinSizeRel/libvorbisenc.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/MinSizeRel/libvorbisfile.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/sdl2/lib/macos/MinSizeRel/libSDL2.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/sdl2/lib/macos/Debug/libSDL2.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/MinSizeRel/libNJLIC-lua-swig-njlic-static.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/MinSizeRel/libNJLIC-lua-swig-bullet3-static.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/MinSizeRel/libNJLIC-static.a\
@@ -1140,19 +1140,19 @@ PostBuild.NJLIC-lua-swig-njlic-static.MinSizeRel: /Users/jamesfolk/Work/test_pro
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/MinSizeRel/libvorbis.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/MinSizeRel/libvorbisenc.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/MinSizeRel/libvorbisfile.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/sdl2/lib/macos/MinSizeRel/libSDL2.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/sdl2/lib/macos/Debug/libSDL2.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/MinSizeRel/libNJLIC-lua-swig-njlic-static.a
 	/bin/rm -f /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/MinSizeRel/libNJLIC.dylib
 
 
 PostBuild.NJLIC-exe.MinSizeRel:
-PostBuild.NJLIC-lua-swig-njlic-static.MinSizeRel: /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/MinSizeRel/NJLIC-exe.app/Contents/MacOS/NJLIC-exe
-PostBuild.NJLIC-lua-swig-bullet3-static.MinSizeRel: /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/MinSizeRel/NJLIC-exe.app/Contents/MacOS/NJLIC-exe
-PostBuild.NJLIC-static.MinSizeRel: /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/MinSizeRel/NJLIC-exe.app/Contents/MacOS/NJLIC-exe
-PostBuild.NJLIC-lua-swig-bullet3-static.MinSizeRel: /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/MinSizeRel/NJLIC-exe.app/Contents/MacOS/NJLIC-exe
-PostBuild.NJLIC-static.MinSizeRel: /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/MinSizeRel/NJLIC-exe.app/Contents/MacOS/NJLIC-exe
-PostBuild.NJLIC-lua-swig-njlic-static.MinSizeRel: /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/MinSizeRel/NJLIC-exe.app/Contents/MacOS/NJLIC-exe
-/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/MinSizeRel/NJLIC-exe.app/Contents/MacOS/NJLIC-exe:\
+PostBuild.NJLIC-lua-swig-njlic-static.MinSizeRel: /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/MinSizeRel/PLACEHOLDER.app/Contents/MacOS/PLACEHOLDER
+PostBuild.NJLIC-lua-swig-bullet3-static.MinSizeRel: /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/MinSizeRel/PLACEHOLDER.app/Contents/MacOS/PLACEHOLDER
+PostBuild.NJLIC-static.MinSizeRel: /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/MinSizeRel/PLACEHOLDER.app/Contents/MacOS/PLACEHOLDER
+PostBuild.NJLIC-lua-swig-bullet3-static.MinSizeRel: /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/MinSizeRel/PLACEHOLDER.app/Contents/MacOS/PLACEHOLDER
+PostBuild.NJLIC-static.MinSizeRel: /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/MinSizeRel/PLACEHOLDER.app/Contents/MacOS/PLACEHOLDER
+PostBuild.NJLIC-lua-swig-njlic-static.MinSizeRel: /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/MinSizeRel/PLACEHOLDER.app/Contents/MacOS/PLACEHOLDER
+/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/MinSizeRel/PLACEHOLDER.app/Contents/MacOS/PLACEHOLDER:\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/MinSizeRel/libBullet2FileLoader.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/MinSizeRel/libBullet3Collision.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/MinSizeRel/libBullet3Common.a\
@@ -1177,7 +1177,7 @@ PostBuild.NJLIC-lua-swig-njlic-static.MinSizeRel: /Users/jamesfolk/Work/test_pro
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/MinSizeRel/libvorbis.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/MinSizeRel/libvorbisenc.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/MinSizeRel/libvorbisfile.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/sdl2/lib/macos/MinSizeRel/libSDL2.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/sdl2/lib/macos/Debug/libSDL2.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/MinSizeRel/libNJLIC-lua-swig-njlic-static.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/MinSizeRel/libNJLIC-lua-swig-bullet3-static.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/MinSizeRel/libNJLIC-static.a\
@@ -1207,9 +1207,9 @@ PostBuild.NJLIC-lua-swig-njlic-static.MinSizeRel: /Users/jamesfolk/Work/test_pro
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/MinSizeRel/libvorbis.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/MinSizeRel/libvorbisenc.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/MinSizeRel/libvorbisfile.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/sdl2/lib/macos/MinSizeRel/libSDL2.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/sdl2/lib/macos/Debug/libSDL2.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/MinSizeRel/libNJLIC-lua-swig-njlic-static.a
-	/bin/rm -f /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/MinSizeRel/NJLIC-exe.app/Contents/MacOS/NJLIC-exe
+	/bin/rm -f /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/MinSizeRel/PLACEHOLDER.app/Contents/MacOS/PLACEHOLDER
 
 
 PostBuild.NJLIC-lua-swig-bullet3.MinSizeRel:
@@ -1245,7 +1245,7 @@ PostBuild.NJLIC-lua-swig-njlic-static.MinSizeRel: /Users/jamesfolk/Work/test_pro
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/MinSizeRel/libvorbis.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/MinSizeRel/libvorbisenc.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/MinSizeRel/libvorbisfile.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/sdl2/lib/macos/MinSizeRel/libSDL2.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/sdl2/lib/macos/Debug/libSDL2.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/MinSizeRel/libNJLIC-lua-swig-njlic-static.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/MinSizeRel/libNJLIC-lua-swig-bullet3-static.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/MinSizeRel/libNJLIC-static.a\
@@ -1274,7 +1274,7 @@ PostBuild.NJLIC-lua-swig-njlic-static.MinSizeRel: /Users/jamesfolk/Work/test_pro
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/MinSizeRel/libvorbis.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/MinSizeRel/libvorbisenc.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/MinSizeRel/libvorbisfile.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/sdl2/lib/macos/MinSizeRel/libSDL2.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/sdl2/lib/macos/Debug/libSDL2.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/MinSizeRel/libNJLIC-lua-swig-njlic-static.a
 	/bin/rm -f /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/MinSizeRel/libNJLIC-lua-swig-bullet3.dylib
 
@@ -1312,7 +1312,7 @@ PostBuild.NJLIC-lua-swig-njlic-static.MinSizeRel: /Users/jamesfolk/Work/test_pro
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/MinSizeRel/libvorbis.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/MinSizeRel/libvorbisenc.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/MinSizeRel/libvorbisfile.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/sdl2/lib/macos/MinSizeRel/libSDL2.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/sdl2/lib/macos/Debug/libSDL2.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/MinSizeRel/libNJLIC-lua-swig-njlic-static.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/MinSizeRel/libNJLIC-lua-swig-bullet3-static.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/MinSizeRel/libNJLIC-static.a\
@@ -1341,7 +1341,7 @@ PostBuild.NJLIC-lua-swig-njlic-static.MinSizeRel: /Users/jamesfolk/Work/test_pro
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/MinSizeRel/libvorbis.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/MinSizeRel/libvorbisenc.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/MinSizeRel/libvorbisfile.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/sdl2/lib/macos/MinSizeRel/libSDL2.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/sdl2/lib/macos/Debug/libSDL2.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/MinSizeRel/libNJLIC-lua-swig-njlic-static.a
 	/bin/rm -f /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/MinSizeRel/NJLIC-lua-swig-bullet3-module.so
 
@@ -1386,7 +1386,7 @@ PostBuild.NJLIC-lua-swig-njlic-static.MinSizeRel: /Users/jamesfolk/Work/test_pro
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/MinSizeRel/libvorbis.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/MinSizeRel/libvorbisenc.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/MinSizeRel/libvorbisfile.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/sdl2/lib/macos/MinSizeRel/libSDL2.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/sdl2/lib/macos/Debug/libSDL2.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/MinSizeRel/libNJLIC-lua-swig-njlic-static.a
 	/bin/rm -f /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/MinSizeRel/libNJLIC-lua-swig-njlic.dylib
 
@@ -1426,7 +1426,7 @@ PostBuild.NJLIC-lua-swig-njlic-static.MinSizeRel: /Users/jamesfolk/Work/test_pro
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/MinSizeRel/libvorbis.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/MinSizeRel/libvorbisenc.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/MinSizeRel/libvorbisfile.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/sdl2/lib/macos/MinSizeRel/libSDL2.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/sdl2/lib/macos/Debug/libSDL2.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/MinSizeRel/libNJLIC-lua-swig-njlic-static.a
 	/bin/rm -f /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/MinSizeRel/NJLIC-lua-swig-njlic-module.so
 
@@ -1473,7 +1473,7 @@ PostBuild.NJLIC-lua-swig-njlic-static.MinSizeRel: /Users/jamesfolk/Work/test_pro
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/MinSizeRel/libvorbis.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/MinSizeRel/libvorbisenc.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/MinSizeRel/libvorbisfile.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/sdl2/lib/macos/MinSizeRel/libSDL2.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/sdl2/lib/macos/Debug/libSDL2.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/MinSizeRel/libNJLIC-lua-swig-njlic-static.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/MinSizeRel/libNJLIC-lua-swig-bullet3-static.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/MinSizeRel/libNJLIC-static.a\
@@ -1503,7 +1503,7 @@ PostBuild.NJLIC-lua-swig-njlic-static.MinSizeRel: /Users/jamesfolk/Work/test_pro
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/MinSizeRel/libvorbis.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/MinSizeRel/libvorbisenc.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/MinSizeRel/libvorbisfile.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/sdl2/lib/macos/MinSizeRel/libSDL2.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/sdl2/lib/macos/Debug/libSDL2.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/MinSizeRel/libNJLIC-lua-swig-njlic-static.a
 	/bin/rm -f /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/MinSizeRel/NJLICFramework.framework/NJLICFramework
 
@@ -1540,7 +1540,7 @@ PostBuild.NJLIC-lua-swig-njlic-static.MinSizeRel: /Users/jamesfolk/Work/test_pro
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/MinSizeRel/libvorbis.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/MinSizeRel/libvorbisenc.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/MinSizeRel/libvorbisfile.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/sdl2/lib/macos/MinSizeRel/libSDL2.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/sdl2/lib/macos/Debug/libSDL2.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/MinSizeRel/libNJLIC-lua-swig-njlic-static.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/MinSizeRel/libNJLIC-lua-swig-bullet3-static.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/MinSizeRel/libNJLIC-static.a\
@@ -1570,7 +1570,7 @@ PostBuild.NJLIC-lua-swig-njlic-static.MinSizeRel: /Users/jamesfolk/Work/test_pro
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/MinSizeRel/libvorbis.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/MinSizeRel/libvorbisenc.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/MinSizeRel/libvorbisfile.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/sdl2/lib/macos/MinSizeRel/libSDL2.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/sdl2/lib/macos/Debug/libSDL2.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/MinSizeRel/libNJLIC-lua-swig-njlic-static.a
 	/bin/rm -f /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/MinSizeRel/lua.app/Contents/MacOS/lua
 
@@ -1607,7 +1607,7 @@ PostBuild.NJLIC-lua-swig-njlic-static.MinSizeRel: /Users/jamesfolk/Work/test_pro
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/MinSizeRel/libvorbis.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/MinSizeRel/libvorbisenc.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/MinSizeRel/libvorbisfile.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/sdl2/lib/macos/MinSizeRel/libSDL2.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/sdl2/lib/macos/Debug/libSDL2.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/MinSizeRel/libNJLIC-lua-swig-njlic-static.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/MinSizeRel/libNJLIC-lua-swig-bullet3-static.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/MinSizeRel/libNJLIC-static.a\
@@ -1637,7 +1637,7 @@ PostBuild.NJLIC-lua-swig-njlic-static.MinSizeRel: /Users/jamesfolk/Work/test_pro
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/MinSizeRel/libvorbis.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/MinSizeRel/libvorbisenc.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/MinSizeRel/libvorbisfile.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/sdl2/lib/macos/MinSizeRel/libSDL2.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/sdl2/lib/macos/Debug/libSDL2.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/MinSizeRel/libNJLIC-lua-swig-njlic-static.a
 	/bin/rm -f /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/MinSizeRel/luac.app/Contents/MacOS/luac
 
@@ -1674,7 +1674,7 @@ PostBuild.NJLIC-lua-swig-njlic-static.RelWithDebInfo: /Users/jamesfolk/Work/test
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbis.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbisenc.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbisfile.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/sdl2/lib/macos/RelWithDebInfo/libSDL2.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/sdl2/lib/macos/Debug/libSDL2.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/libNJLIC-lua-swig-njlic-static.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/libNJLIC-lua-swig-bullet3-static.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/libNJLIC-static.a\
@@ -1704,19 +1704,19 @@ PostBuild.NJLIC-lua-swig-njlic-static.RelWithDebInfo: /Users/jamesfolk/Work/test
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbis.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbisenc.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbisfile.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/sdl2/lib/macos/RelWithDebInfo/libSDL2.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/sdl2/lib/macos/Debug/libSDL2.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/libNJLIC-lua-swig-njlic-static.a
 	/bin/rm -f /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/libNJLIC.dylib
 
 
 PostBuild.NJLIC-exe.RelWithDebInfo:
-PostBuild.NJLIC-lua-swig-njlic-static.RelWithDebInfo: /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/NJLIC-exe.app/Contents/MacOS/NJLIC-exe
-PostBuild.NJLIC-lua-swig-bullet3-static.RelWithDebInfo: /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/NJLIC-exe.app/Contents/MacOS/NJLIC-exe
-PostBuild.NJLIC-static.RelWithDebInfo: /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/NJLIC-exe.app/Contents/MacOS/NJLIC-exe
-PostBuild.NJLIC-lua-swig-bullet3-static.RelWithDebInfo: /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/NJLIC-exe.app/Contents/MacOS/NJLIC-exe
-PostBuild.NJLIC-static.RelWithDebInfo: /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/NJLIC-exe.app/Contents/MacOS/NJLIC-exe
-PostBuild.NJLIC-lua-swig-njlic-static.RelWithDebInfo: /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/NJLIC-exe.app/Contents/MacOS/NJLIC-exe
-/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/NJLIC-exe.app/Contents/MacOS/NJLIC-exe:\
+PostBuild.NJLIC-lua-swig-njlic-static.RelWithDebInfo: /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/PLACEHOLDER.app/Contents/MacOS/PLACEHOLDER
+PostBuild.NJLIC-lua-swig-bullet3-static.RelWithDebInfo: /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/PLACEHOLDER.app/Contents/MacOS/PLACEHOLDER
+PostBuild.NJLIC-static.RelWithDebInfo: /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/PLACEHOLDER.app/Contents/MacOS/PLACEHOLDER
+PostBuild.NJLIC-lua-swig-bullet3-static.RelWithDebInfo: /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/PLACEHOLDER.app/Contents/MacOS/PLACEHOLDER
+PostBuild.NJLIC-static.RelWithDebInfo: /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/PLACEHOLDER.app/Contents/MacOS/PLACEHOLDER
+PostBuild.NJLIC-lua-swig-njlic-static.RelWithDebInfo: /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/PLACEHOLDER.app/Contents/MacOS/PLACEHOLDER
+/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/PLACEHOLDER.app/Contents/MacOS/PLACEHOLDER:\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet2FileLoader.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet3Collision.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/RelWithDebInfo/libBullet3Common.a\
@@ -1741,7 +1741,7 @@ PostBuild.NJLIC-lua-swig-njlic-static.RelWithDebInfo: /Users/jamesfolk/Work/test
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbis.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbisenc.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbisfile.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/sdl2/lib/macos/RelWithDebInfo/libSDL2.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/sdl2/lib/macos/Debug/libSDL2.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/libNJLIC-lua-swig-njlic-static.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/libNJLIC-lua-swig-bullet3-static.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/libNJLIC-static.a\
@@ -1771,9 +1771,9 @@ PostBuild.NJLIC-lua-swig-njlic-static.RelWithDebInfo: /Users/jamesfolk/Work/test
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbis.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbisenc.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbisfile.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/sdl2/lib/macos/RelWithDebInfo/libSDL2.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/sdl2/lib/macos/Debug/libSDL2.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/libNJLIC-lua-swig-njlic-static.a
-	/bin/rm -f /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/NJLIC-exe.app/Contents/MacOS/NJLIC-exe
+	/bin/rm -f /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/PLACEHOLDER.app/Contents/MacOS/PLACEHOLDER
 
 
 PostBuild.NJLIC-lua-swig-bullet3.RelWithDebInfo:
@@ -1809,7 +1809,7 @@ PostBuild.NJLIC-lua-swig-njlic-static.RelWithDebInfo: /Users/jamesfolk/Work/test
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbis.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbisenc.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbisfile.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/sdl2/lib/macos/RelWithDebInfo/libSDL2.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/sdl2/lib/macos/Debug/libSDL2.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/libNJLIC-lua-swig-njlic-static.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/libNJLIC-lua-swig-bullet3-static.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/libNJLIC-static.a\
@@ -1838,7 +1838,7 @@ PostBuild.NJLIC-lua-swig-njlic-static.RelWithDebInfo: /Users/jamesfolk/Work/test
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbis.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbisenc.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbisfile.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/sdl2/lib/macos/RelWithDebInfo/libSDL2.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/sdl2/lib/macos/Debug/libSDL2.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/libNJLIC-lua-swig-njlic-static.a
 	/bin/rm -f /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/libNJLIC-lua-swig-bullet3.dylib
 
@@ -1876,7 +1876,7 @@ PostBuild.NJLIC-lua-swig-njlic-static.RelWithDebInfo: /Users/jamesfolk/Work/test
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbis.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbisenc.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbisfile.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/sdl2/lib/macos/RelWithDebInfo/libSDL2.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/sdl2/lib/macos/Debug/libSDL2.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/libNJLIC-lua-swig-njlic-static.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/libNJLIC-lua-swig-bullet3-static.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/libNJLIC-static.a\
@@ -1905,7 +1905,7 @@ PostBuild.NJLIC-lua-swig-njlic-static.RelWithDebInfo: /Users/jamesfolk/Work/test
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbis.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbisenc.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbisfile.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/sdl2/lib/macos/RelWithDebInfo/libSDL2.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/sdl2/lib/macos/Debug/libSDL2.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/libNJLIC-lua-swig-njlic-static.a
 	/bin/rm -f /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/NJLIC-lua-swig-bullet3-module.so
 
@@ -1950,7 +1950,7 @@ PostBuild.NJLIC-lua-swig-njlic-static.RelWithDebInfo: /Users/jamesfolk/Work/test
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbis.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbisenc.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbisfile.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/sdl2/lib/macos/RelWithDebInfo/libSDL2.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/sdl2/lib/macos/Debug/libSDL2.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/libNJLIC-lua-swig-njlic-static.a
 	/bin/rm -f /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/libNJLIC-lua-swig-njlic.dylib
 
@@ -1990,7 +1990,7 @@ PostBuild.NJLIC-lua-swig-njlic-static.RelWithDebInfo: /Users/jamesfolk/Work/test
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbis.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbisenc.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbisfile.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/sdl2/lib/macos/RelWithDebInfo/libSDL2.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/sdl2/lib/macos/Debug/libSDL2.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/libNJLIC-lua-swig-njlic-static.a
 	/bin/rm -f /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/NJLIC-lua-swig-njlic-module.so
 
@@ -2037,7 +2037,7 @@ PostBuild.NJLIC-lua-swig-njlic-static.RelWithDebInfo: /Users/jamesfolk/Work/test
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbis.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbisenc.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbisfile.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/sdl2/lib/macos/RelWithDebInfo/libSDL2.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/sdl2/lib/macos/Debug/libSDL2.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/libNJLIC-lua-swig-njlic-static.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/libNJLIC-lua-swig-bullet3-static.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/libNJLIC-static.a\
@@ -2067,7 +2067,7 @@ PostBuild.NJLIC-lua-swig-njlic-static.RelWithDebInfo: /Users/jamesfolk/Work/test
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbis.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbisenc.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbisfile.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/sdl2/lib/macos/RelWithDebInfo/libSDL2.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/sdl2/lib/macos/Debug/libSDL2.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/libNJLIC-lua-swig-njlic-static.a
 	/bin/rm -f /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/NJLICFramework.framework/NJLICFramework
 
@@ -2104,7 +2104,7 @@ PostBuild.NJLIC-lua-swig-njlic-static.RelWithDebInfo: /Users/jamesfolk/Work/test
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbis.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbisenc.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbisfile.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/sdl2/lib/macos/RelWithDebInfo/libSDL2.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/sdl2/lib/macos/Debug/libSDL2.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/libNJLIC-lua-swig-njlic-static.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/libNJLIC-lua-swig-bullet3-static.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/libNJLIC-static.a\
@@ -2134,7 +2134,7 @@ PostBuild.NJLIC-lua-swig-njlic-static.RelWithDebInfo: /Users/jamesfolk/Work/test
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbis.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbisenc.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbisfile.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/sdl2/lib/macos/RelWithDebInfo/libSDL2.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/sdl2/lib/macos/Debug/libSDL2.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/libNJLIC-lua-swig-njlic-static.a
 	/bin/rm -f /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/lua.app/Contents/MacOS/lua
 
@@ -2171,7 +2171,7 @@ PostBuild.NJLIC-lua-swig-njlic-static.RelWithDebInfo: /Users/jamesfolk/Work/test
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbis.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbisenc.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbisfile.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/sdl2/lib/macos/RelWithDebInfo/libSDL2.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/sdl2/lib/macos/Debug/libSDL2.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/libNJLIC-lua-swig-njlic-static.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/libNJLIC-lua-swig-bullet3-static.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/libNJLIC-static.a\
@@ -2201,7 +2201,7 @@ PostBuild.NJLIC-lua-swig-njlic-static.RelWithDebInfo: /Users/jamesfolk/Work/test
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbis.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbisenc.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbisfile.a\
-	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/sdl2/lib/macos/RelWithDebInfo/libSDL2.a\
+	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/sdl2/lib/macos/Debug/libSDL2.a\
 	/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/libNJLIC-lua-swig-njlic-static.a
 	/bin/rm -f /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/RelWithDebInfo/luac.app/Contents/MacOS/luac
 
@@ -2306,8 +2306,6 @@ PostBuild.NJLIC-lua-swig-njlic-static.RelWithDebInfo: /Users/jamesfolk/Work/test
 /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/ogg/lib/macos/RelWithDebInfo/libogg.a:
 /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/ogg/lib/macos/Release/libogg.a:
 /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/sdl2/lib/macos/Debug/libSDL2.a:
-/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/sdl2/lib/macos/MinSizeRel/libSDL2.a:
-/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/sdl2/lib/macos/RelWithDebInfo/libSDL2.a:
 /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/sdl2/lib/macos/Release/libSDL2.a:
 /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/Debug/libvorbis.a:
 /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/Debug/libvorbisenc.a:

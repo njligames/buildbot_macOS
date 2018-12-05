@@ -16,6 +16,7 @@ TARGETS += $(subst $(space),$(spaceplus),$(wildcard /Users/jamesfolk/Work/test_p
 TARGETS += $(subst $(space),$(spaceplus),$(wildcard /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/CMakeFiles/feature_tests.c))
 TARGETS += $(subst $(space),$(spaceplus),$(wildcard /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/CMakeFiles/feature_tests.cxx))
 TARGETS += $(subst $(space),$(spaceplus),$(wildcard /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/cmake.in/Doxyfile.in))
+TARGETS += $(subst $(space),$(spaceplus),$(wildcard /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/cmake.in/platform.in/exportOptions.plist.in))
 TARGETS += $(subst $(space),$(spaceplus),$(wildcard /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/cmake.in/platform.in/macOS/FrameworkInfo.plist.in))
 TARGETS += $(subst $(space),$(spaceplus),$(wildcard /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/cmake.in/platform.in/macOS/Info.plist.in))
 TARGETS += $(subst $(space),$(spaceplus),$(wildcard /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/njligames-njlic_engine/cmake/DownloadBullet3.cmake))

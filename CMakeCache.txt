@@ -362,7 +362,7 @@ CMAKE_OSX_ARCHITECTURES:STRING=
 
 //Minimum OS X version to target for deployment (at runtime); newer
 // APIs weak linked. Set to empty string for default value.
-CMAKE_OSX_DEPLOYMENT_TARGET:STRING=10.13
+CMAKE_OSX_DEPLOYMENT_TARGET:STRING=
 
 //The product will be built against the headers and libraries located
 // inside the indicated SDK.
@@ -472,6 +472,30 @@ DIRECTX:BOOL=OFF
 //Support the disk writer audio driver
 DISKAUDIO:BOOL=ON
 
+//bullet3 typedef
+DOWNLOAD_BULLET3_LIBRARY:BOOL=ON
+
+//bullet3 typedef
+DOWNLOAD_DEBUGDRAW_ENABLED:BOOL=ON
+
+//bullet3 typedef
+DOWNLOAD_GLM_ENABLED:BOOL=ON
+
+//bullet3 typedef
+DOWNLOAD_IMGUIZMO_ENABLED:BOOL=ON
+
+//bullet3 typedef
+DOWNLOAD_IMGUI_ENABLED:BOOL=ON
+
+//bullet3 typedef
+DOWNLOAD_JSONCPP_ENABLED:BOOL=OFF
+
+//bullet3 typedef
+DOWNLOAD_NANOVG_ENABLED:BOOL=OFF
+
+//bullet3 typedef
+DOWNLOAD_OPENCV_LIBRARY:BOOL=OFF
+
 //Dot tool for use with Doxygen
 DOXYGEN_DOT_EXECUTABLE:FILEPATH=/usr/local/bin/dot
 
@@ -561,6 +585,43 @@ LIBC:BOOL=ON
 
 //Use libsamplerate for audio rate conversion
 LIBSAMPLERATE:BOOL=OFF
+
+//Build lua interpretter.
+LUA_BUILD_LUA:BOOL=ON
+
+//Build luac compiler.
+LUA_BUILD_LUAC:BOOL=ON
+
+//Enable backwards compatibility options with lua-5.1.
+LUA_COMPAT_5_1:BOOL=ON
+
+//Enable backwards compatibility options with lua-5.2.
+LUA_COMPAT_5_2:BOOL=ON
+
+//Environment variable to use as package.cpath.
+LUA_CPATH:STRING=LUA_CPATH
+
+//Environment variable for initial script.
+LUA_INIT:STRING=LUA_INIT
+
+//Environment variable to use as package.path.
+LUA_PATH:STRING=LUA_PATH
+
+//Assume 'printf' handles 'aA' specifiers
+LUA_USE_AFORMAT:BOOL=ON
+
+//Use only C89 features.
+LUA_USE_C89:BOOL=ON
+
+//Use dynamic linker to load modules.
+LUA_USE_DLOPEN:BOOL=ON
+
+//Use POSIX features.
+LUA_USE_POSIX:BOOL=ON
+
+//Use modified loadlib.c with support for relative paths on posix
+// systems.
+LUA_USE_RELATIVE_LOADLIB:BOOL=ON
 
 //Path to a library.
 LinearMath_LIBRARY_DEBUG:FILEPATH=/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libLinearMath.a
@@ -756,6 +817,9 @@ SWIG_VERSION:STRING=3.0.12
 THIRDPARTY_BULLET3_DEBUG_URL:STRING=https://www.dropbox.com/s/uthinr4qer5k81p/libbullet3_macos_Debug.tar.gz?dl=0
 
 //Use bullet3 library
+THIRDPARTY_BULLET3_DOWNLOAD:BOOL=ON
+
+//Use bullet3 library
 THIRDPARTY_BULLET3_ENABLED:BOOL=ON
 
 //The URL for include Bullet3
@@ -839,6 +903,12 @@ THIRDPARTY_OGG_RELEASE_URL:STRING=https://www.dropbox.com/s/htqjt4tmws7r8y2/libo
 //The URL for Release Bullet3
 THIRDPARTY_OGG_RELWITHDEBINFO_URL:STRING=https://www.dropbox.com/s/ndyode72ghyd606/libogg_macos_RelWithDebugInfo.tar.gz?dl=0
 
+//Use OpenCV library
+THIRDPARTY_OPENCV_DOWNLOAD:BOOL=FALSE
+
+//Use OpenCV library
+THIRDPARTY_OPENCV_ENABLED:BOOL=OFF
+
 //The URL for Debug Bullet3
 THIRDPARTY_SDL2_DEBUG_URL:STRING=https://www.dropbox.com/s/nvhp2k3ykm56zw0/libsdl2_macos_Debug.tar.gz?dl=0
 
@@ -875,29 +945,32 @@ THIRDPARTY_VORBIS_RELEASE_URL:STRING=https://www.dropbox.com/s/9bs3e8ibm4w5bh8/l
 //The URL for Release Bullet3
 THIRDPARTY_VORBIS_RELWITHDEBINFO_URL:STRING=https://www.dropbox.com/s/ej57zuqkxtvr1mr/libvorbis_macos_RelWithDebugInfo.tar.gz?dl=0
 
-//fmod include
+//bullet3 typedef
 USE_BULLET3_LIBRARY:BOOL=ON
 
-//fmod include
+//debugdraw typedef
 USE_DEBUGDRAW_LIBRARY:BOOL=ON
 
-//fmod include
+//glm typedef
 USE_GLM_LIBRARY:BOOL=ON
 
-//fmod include
+//imguizmo typedef
 USE_IMGUIZMO_LIBRARY:BOOL=ON
 
-//fmod include
+//imgui typedef
 USE_IMGUI_LIBRARY:BOOL=ON
 
-//fmod include
+//jsoncpp typedef
 USE_JSONCPP_LIBRARY:BOOL=OFF
 
-//fmod include
+//nanovg typedef
 USE_NANOVG_LIBRARY:BOOL=OFF
 
 //ogg include
 USE_OGG_LIBRARY:BOOL=ON
+
+//opencv typedef
+USE_OPENCV_LIBRARY:BOOL=OFF
 
 //vorbis include
 USE_VORBIS_LIBRARY:BOOL=ON
@@ -1055,7 +1128,7 @@ vorbisfile_LIBRARY_RELWITHDEBINFO:FILEPATH=/Users/jamesfolk/Work/test_project_re
 ########################
 
 //Stored Xcode object GUID
-ALL_BUILD_GUID_CMAKE:INTERNAL=ABCEBE8861EE40A183F77613
+ALL_BUILD_GUID_CMAKE:INTERNAL=238DE4B56A6845F59798A4D9
 //ADVANCED property for variable: BULLET3_INCLUDE_DIR
 BULLET3_INCLUDE_DIR-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: Bullet2FileLoader_LIBRARY_DEBUG
@@ -1322,7 +1395,7 @@ FIND_PACKAGE_MESSAGE_DETAILS_BulletXmlWorldImporter:INTERNAL=[/Users/jamesfolk/W
 //Details about finding ConvexDecomposition
 FIND_PACKAGE_MESSAGE_DETAILS_ConvexDecomposition:INTERNAL=[/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/include][optimized;/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Release/libConvexDecomposition.a;debug;/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libConvexDecomposition.a][v()]
 //Details about finding Doxygen
-FIND_PACKAGE_MESSAGE_DETAILS_Doxygen:INTERNAL=[/usr/local/bin/doxygen][cfound components:  doxygen dot ][v1.8.14()]
+FIND_PACKAGE_MESSAGE_DETAILS_Doxygen:INTERNAL=[/usr/local/bin/doxygen][cfound components:  doxygen dot ][v1.8.15()]
 //Details about finding GIMPACTUtils
 FIND_PACKAGE_MESSAGE_DETAILS_GIMPACTUtils:INTERNAL=[/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/include][optimized;/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Release/libGIMPACTUtils.a;debug;/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libGIMPACTUtils.a][v()]
 //Details about finding HACD
@@ -1612,29 +1685,29 @@ LinearMath_LIBRARY_DEBUG-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: LinearMath_LIBRARY_RELEASE
 LinearMath_LIBRARY_RELEASE-ADVANCED:INTERNAL=1
 //Stored Xcode object GUID
-NJLIC-documentation_GUID_CMAKE:INTERNAL=7942E7DC9AC2412EA1984CD4
+NJLIC-documentation_GUID_CMAKE:INTERNAL=D37A69DB01794120B9AA8334
 //Stored Xcode object GUID
-NJLIC-exe_GUID_CMAKE:INTERNAL=55A9BE9A10534475AC1A02E2
+NJLIC-exe_GUID_CMAKE:INTERNAL=E814CE80B7BB4111910711D2
 //Stored Xcode object GUID
-NJLIC-lua-swig-bullet3-module_GUID_CMAKE:INTERNAL=3A1AE67ACAB4422FB67CF274
+NJLIC-lua-swig-bullet3-module_GUID_CMAKE:INTERNAL=2A1F3FE651DA46738CD75F36
 //Stored Xcode object GUID
-NJLIC-lua-swig-bullet3-static_GUID_CMAKE:INTERNAL=224BAB67CEBE4C1984EEBCAA
+NJLIC-lua-swig-bullet3-static_GUID_CMAKE:INTERNAL=C3855994CA344FFE9D3DD87E
 //Stored Xcode object GUID
-NJLIC-lua-swig-bullet3_GUID_CMAKE:INTERNAL=1A162800FAC14359ADA13040
+NJLIC-lua-swig-bullet3_GUID_CMAKE:INTERNAL=0E42BEFAB0AA4A1AABD86A0B
 //Stored Xcode object GUID
-NJLIC-lua-swig-njlic-module_GUID_CMAKE:INTERNAL=B35F5A6AB12E44378F604A60
+NJLIC-lua-swig-njlic-module_GUID_CMAKE:INTERNAL=FB35EF1E6B3243448DC484C9
 //Stored Xcode object GUID
-NJLIC-lua-swig-njlic-static_GUID_CMAKE:INTERNAL=535C1ACB684E4513A4B8DB62
+NJLIC-lua-swig-njlic-static_GUID_CMAKE:INTERNAL=730E329E7DB9447BA646C3DA
 //Stored Xcode object GUID
-NJLIC-lua-swig-njlic_GUID_CMAKE:INTERNAL=A29107AD6C984EEC87726856
+NJLIC-lua-swig-njlic_GUID_CMAKE:INTERNAL=AB888670E38D4C8A99F87995
 //Stored Xcode object GUID
-NJLIC-static_GUID_CMAKE:INTERNAL=87E93E4B19294FBB8478BF40
+NJLIC-static_GUID_CMAKE:INTERNAL=C1D499EB054342B28D910B78
 //Stored Xcode object GUID
-NJLICFramework_GUID_CMAKE:INTERNAL=F3BCA4A29E5B4EAF967EDB01
+NJLICFramework_GUID_CMAKE:INTERNAL=3D8B2ED4EC1244FF8BB76CBD
 //STRINGS property for variable: NJLIC_GRAPHICS_PLATFORM
 NJLIC_GRAPHICS_PLATFORM-STRINGS:INTERNAL=opengl_2;opengl_3
 //Stored Xcode object GUID
-NJLIC_GUID_CMAKE:INTERNAL=F383B74E7EFA420390CC305E
+NJLIC_GUID_CMAKE:INTERNAL=1CFACE3B5A6A40E5BE6D990E
 //STRINGS property for variable: NJLIC_SOUND_PLATFORM
 NJLIC_SOUND_PLATFORM-STRINGS:INTERNAL=openal;fmod;sdl
 //ADVANCED property for variable: OGG_INCLUDE_DIR
@@ -1642,7 +1715,7 @@ OGG_INCLUDE_DIR-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: PKG_CONFIG_EXECUTABLE
 PKG_CONFIG_EXECUTABLE-ADVANCED:INTERNAL=1
 //Stored Xcode object GUID
-PROJECT_NJLIC_GUID_CMAKE:INTERNAL=4439CA8206F044338783ED39
+PROJECT_NJLIC_GUID_CMAKE:INTERNAL=1AAEC21750104924A908B3B3
 //ADVANCED property for variable: SDL2_INCLUDE_DIR
 SDL2_INCLUDE_DIR-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: SDL2_LIBRARY_DEBUG
@@ -1662,33 +1735,33 @@ SWIG_VERSION-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: VORBIS_INCLUDE_DIR
 VORBIS_INCLUDE_DIR-ADVANCED:INTERNAL=1
 //Stored Xcode object GUID
-ZERO_CHECK_GUID_CMAKE:INTERNAL=1524AE00973E48E48CCD7100
+ZERO_CHECK_GUID_CMAKE:INTERNAL=E83100FC6037484299DC13D9
 //Stored Xcode object GUID
-ZeroBrane-njlic-api_GUID_CMAKE:INTERNAL=3913FB601F9C4F91BC922771
+ZeroBrane-njlic-api_GUID_CMAKE:INTERNAL=2E9995DE64B34CD8BE34B618
 //CMAKE_INSTALL_PREFIX during last run
 _GNUInstallDirs_LAST_CMAKE_INSTALL_PREFIX:INTERNAL=/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/install/Debug
 //Stored Xcode object GUID
-clang-format_GUID_CMAKE:INTERNAL=A1DE4557ABE24F42A9F1B8D5
+clang-format_GUID_CMAKE:INTERNAL=66FAE7A707B648E5A3642303
 //Stored Xcode object GUID
-cppcheck_GUID_CMAKE:INTERNAL=A64839ADFF48405BA71CCC9A
+cppcheck_GUID_CMAKE:INTERNAL=215DA2FAC55F405995E28165
 //ADVANCED property for variable: imgui_LIBRARY_DEBUG
 imgui_LIBRARY_DEBUG-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: imgui_LIBRARY_RELEASE
 imgui_LIBRARY_RELEASE-ADVANCED:INTERNAL=1
 //Stored Xcode object GUID
-install_GUID_CMAKE:INTERNAL=E9002737C0024598A4B0CED7
+install_GUID_CMAKE:INTERNAL=FA913E9573814E4CB6109E43
 //Stored Xcode object GUID
-lua_GUID_CMAKE:INTERNAL=BE9BF9FE9E6843CDADAE9CBE
+lua_GUID_CMAKE:INTERNAL=C87EB6479C1A4D09A62D4029
 //Stored Xcode object GUID
-luac_GUID_CMAKE:INTERNAL=6F9EDE43E4F147A3AF1F9382
+luac_GUID_CMAKE:INTERNAL=4E42F894F4124F728EF5FE0F
 //ADVANCED property for variable: ogg_LIBRARY_DEBUG
 ogg_LIBRARY_DEBUG-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: ogg_LIBRARY_RELEASE
 ogg_LIBRARY_RELEASE-ADVANCED:INTERNAL=1
 //Stored Xcode object GUID
-package_GUID_CMAKE:INTERNAL=BE1323D9DB374ED4BD73E2A3
+package_GUID_CMAKE:INTERNAL=CC0ECF4A0EE4432483C4D966
 //Stored Xcode object GUID
-uninstall_GUID_CMAKE:INTERNAL=4132C5F17E31465D94A92D3B
+uninstall_GUID_CMAKE:INTERNAL=7C0B0CF087104B88A8CC57C8
 //ADVANCED property for variable: vorbis_LIBRARY_DEBUG
 vorbis_LIBRARY_DEBUG-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: vorbis_LIBRARY_RELEASE

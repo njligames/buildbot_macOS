@@ -49,6 +49,7 @@ TARGETS += $(subst $(space),$(spaceplus),$(wildcard /Users/jamesfolk/Work/test_p
 TARGETS += $(subst $(space),$(spaceplus),$(wildcard /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/njligames-njlic_engine/cmake/sources.cmake))
 TARGETS += $(subst $(space),$(spaceplus),$(wildcard /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/njligames-njlic_engine/cmake/swig_targets.cmake))
 TARGETS += $(subst $(space),$(spaceplus),$(wildcard /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/njligames-njlic_engine/cmake/targets.cmake))
+TARGETS += $(subst $(space),$(spaceplus),$(wildcard /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/njligames-njlic_engine/lua/src/luaconf.h.in))
 TARGETS += $(subst $(space),$(spaceplus),$(wildcard /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/njligames-njlic_engine/swig.in/script/njlic/_Defines.swg.in))
 TARGETS += $(subst $(space),$(spaceplus),$(wildcard /Users/jamesfolk/Work/test_project_repo/cmake/DownloadSDL2_NJLIC.cmake))
 TARGETS += $(subst $(space),$(spaceplus),$(wildcard /Users/jamesfolk/Work/test_project_repo/cmake/DownloadSwig_Zerobrane.cmake))

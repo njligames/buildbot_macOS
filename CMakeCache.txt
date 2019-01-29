@@ -493,8 +493,14 @@ DOWNLOAD_JSONCPP_ENABLED:BOOL=OFF
 //bullet3 typedef
 DOWNLOAD_NANOVG_ENABLED:BOOL=OFF
 
+//ogg typedef
+DOWNLOAD_OGG_LIBRARY:BOOL=OFF
+
 //bullet3 typedef
 DOWNLOAD_OPENCV_LIBRARY:BOOL=OFF
+
+//vorbis typedef
+DOWNLOAD_VORBIS_LIBRARY:BOOL=OFF
 
 //Dot tool for use with Doxygen
 DOXYGEN_DOT_EXECUTABLE:FILEPATH=/usr/local/bin/dot
@@ -888,23 +894,11 @@ THIRDPARTY_JSONCPP_ENABLED:BOOL=OFF
 //Use Nanovg library
 THIRDPARTY_NANOVG_ENABLED:BOOL=OFF
 
-//The URL for Debug Bullet3
-THIRDPARTY_OGG_DEBUG_URL:STRING=https://www.dropbox.com/s/rrlq3la5v9yflyp/libogg_macos_Debug.tar.gz?dl=0
-
-//The URL for include Bullet3
-THIRDPARTY_OGG_INCLUDE_URL:STRING=https://www.dropbox.com/s/agc7zmqg9m64x9i/libogg_includes.tar.gz?dl=0
-
-//The URL for Release Bullet3
-THIRDPARTY_OGG_MINSIZEREL_URL:STRING=https://www.dropbox.com/s/pfzqns1g1rvby29/libogg_macos_MinsizeRel.tar.gz?dl=0
-
-//The URL for Release Bullet3
-THIRDPARTY_OGG_RELEASE_URL:STRING=https://www.dropbox.com/s/htqjt4tmws7r8y2/libogg_macos_Release.tar.gz?dl=0
-
-//The URL for Release Bullet3
-THIRDPARTY_OGG_RELWITHDEBINFO_URL:STRING=https://www.dropbox.com/s/ndyode72ghyd606/libogg_macos_RelWithDebugInfo.tar.gz?dl=0
+//Download OGG library
+THIRDPARTY_OGG_DOWNLOAD:BOOL=OFF
 
 //Use OpenCV library
-THIRDPARTY_OPENCV_DOWNLOAD:BOOL=FALSE
+THIRDPARTY_OPENCV_DOWNLOAD:BOOL=OFF
 
 //Use OpenCV library
 THIRDPARTY_OPENCV_ENABLED:BOOL=OFF
@@ -930,20 +924,8 @@ THIRDPARTY_SWIG_ZEROBRANE_BIN_URL:STRING=https://www.dropbox.com/s/wgb7imtaj11fw
 //The URL for include Bullet3
 THIRDPARTY_SWIG_ZEROBRANE_LIB_URL:STRING=https://www.dropbox.com/s/6c5nhoz7xez1atj/libswig.tar.gz?dl=0
 
-//The URL for Debug Bullet3
-THIRDPARTY_VORBIS_DEBUG_URL:STRING=https://www.dropbox.com/s/afav2q67eujxnpn/libvorbis_macos_Debug.tar.gz?dl=0
-
-//The URL for include Bullet3
-THIRDPARTY_VORBIS_INCLUDE_URL:STRING=https://www.dropbox.com/s/erbp79zazwqsknv/libvorbis_includes.tar.gz?dl=0
-
-//The URL for Release Bullet3
-THIRDPARTY_VORBIS_MINSIZEREL_URL:STRING=https://www.dropbox.com/s/4g1l8j99ep9oe7e/libvorbis_macos_MinsizeRel.tar.gz?dl=0
-
-//The URL for Release Bullet3
-THIRDPARTY_VORBIS_RELEASE_URL:STRING=https://www.dropbox.com/s/9bs3e8ibm4w5bh8/libvorbis_macos_Release.tar.gz?dl=0
-
-//The URL for Release Bullet3
-THIRDPARTY_VORBIS_RELWITHDEBINFO_URL:STRING=https://www.dropbox.com/s/ej57zuqkxtvr1mr/libvorbis_macos_RelWithDebugInfo.tar.gz?dl=0
+//Download Vorbis library
+THIRDPARTY_VORBIS_DOWNLOAD:BOOL=OFF
 
 //bullet3 typedef
 USE_BULLET3_LIBRARY:BOOL=ON
@@ -1071,9 +1053,6 @@ ogg_LIBRARY_RELEASE:FILEPATH=/Users/jamesfolk/Work/test_project_repo/buildbot_ma
 //Path to a library.
 ogg_LIBRARY_RELWITHDEBINFO:FILEPATH=/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/ogg/lib/macos/RelWithDebInfo/libogg.a
 
-//The URL for the include files for thirdparty/ogg/lib/macos/include
-ogg_URL_INCLUDE:STRING=https://www.dropbox.com/s/agc7zmqg9m64x9i/libogg_includes.tar.gz?dl=0
-
 //The URL for the include files for thirdparty/sdl2/lib/macos/include
 sdl2_URL_INCLUDE:STRING=https://www.dropbox.com/s/ninle2iwebrcpdq/libsdl_include.tar.gz?dl=0
 
@@ -1094,9 +1073,6 @@ vorbis_LIBRARY_RELEASE:FILEPATH=/Users/jamesfolk/Work/test_project_repo/buildbot
 
 //Path to a library.
 vorbis_LIBRARY_RELWITHDEBINFO:FILEPATH=/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/RelWithDebInfo/libvorbis.a
-
-//The URL for the include files for thirdparty/vorbis/lib/macos/include
-vorbis_URL_INCLUDE:STRING=https://www.dropbox.com/s/erbp79zazwqsknv/libvorbis_includes.tar.gz?dl=0
 
 //Path to a library.
 vorbisenc_LIBRARY_DEBUG:FILEPATH=/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/vorbis/lib/macos/Debug/libvorbisenc.a
@@ -1128,7 +1104,7 @@ vorbisfile_LIBRARY_RELWITHDEBINFO:FILEPATH=/Users/jamesfolk/Work/test_project_re
 ########################
 
 //Stored Xcode object GUID
-ALL_BUILD_GUID_CMAKE:INTERNAL=238DE4B56A6845F59798A4D9
+ALL_BUILD_GUID_CMAKE:INTERNAL=4B825CD6419F45A383678CA2
 //ADVANCED property for variable: BULLET3_INCLUDE_DIR
 BULLET3_INCLUDE_DIR-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: Bullet2FileLoader_LIBRARY_DEBUG
@@ -1685,29 +1661,29 @@ LinearMath_LIBRARY_DEBUG-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: LinearMath_LIBRARY_RELEASE
 LinearMath_LIBRARY_RELEASE-ADVANCED:INTERNAL=1
 //Stored Xcode object GUID
-NJLIC-documentation_GUID_CMAKE:INTERNAL=D37A69DB01794120B9AA8334
+NJLIC-documentation_GUID_CMAKE:INTERNAL=1460541EBE2146A2A1EE083F
 //Stored Xcode object GUID
-NJLIC-exe_GUID_CMAKE:INTERNAL=E814CE80B7BB4111910711D2
+NJLIC-exe_GUID_CMAKE:INTERNAL=955923ED942645D18E55C308
 //Stored Xcode object GUID
-NJLIC-lua-swig-bullet3-module_GUID_CMAKE:INTERNAL=2A1F3FE651DA46738CD75F36
+NJLIC-lua-swig-bullet3-module_GUID_CMAKE:INTERNAL=38406D59D948485F9B802523
 //Stored Xcode object GUID
-NJLIC-lua-swig-bullet3-static_GUID_CMAKE:INTERNAL=C3855994CA344FFE9D3DD87E
+NJLIC-lua-swig-bullet3-static_GUID_CMAKE:INTERNAL=4D9CC7F9CE9749AABFB503E1
 //Stored Xcode object GUID
-NJLIC-lua-swig-bullet3_GUID_CMAKE:INTERNAL=0E42BEFAB0AA4A1AABD86A0B
+NJLIC-lua-swig-bullet3_GUID_CMAKE:INTERNAL=378C3C3569204467AF2EF67C
 //Stored Xcode object GUID
-NJLIC-lua-swig-njlic-module_GUID_CMAKE:INTERNAL=FB35EF1E6B3243448DC484C9
+NJLIC-lua-swig-njlic-module_GUID_CMAKE:INTERNAL=9AE50D1ECDBC41A0B9242E3E
 //Stored Xcode object GUID
-NJLIC-lua-swig-njlic-static_GUID_CMAKE:INTERNAL=730E329E7DB9447BA646C3DA
+NJLIC-lua-swig-njlic-static_GUID_CMAKE:INTERNAL=AEEA968F894642DA936BE9B5
 //Stored Xcode object GUID
-NJLIC-lua-swig-njlic_GUID_CMAKE:INTERNAL=AB888670E38D4C8A99F87995
+NJLIC-lua-swig-njlic_GUID_CMAKE:INTERNAL=7C69C8E1C4BF428C9824FB55
 //Stored Xcode object GUID
-NJLIC-static_GUID_CMAKE:INTERNAL=C1D499EB054342B28D910B78
+NJLIC-static_GUID_CMAKE:INTERNAL=59DD3193E9634B97AEFCD4E9
 //Stored Xcode object GUID
-NJLICFramework_GUID_CMAKE:INTERNAL=3D8B2ED4EC1244FF8BB76CBD
+NJLICFramework_GUID_CMAKE:INTERNAL=8F4FDAC2F1554B7BBFB0CDCE
 //STRINGS property for variable: NJLIC_GRAPHICS_PLATFORM
 NJLIC_GRAPHICS_PLATFORM-STRINGS:INTERNAL=opengl_2;opengl_3
 //Stored Xcode object GUID
-NJLIC_GUID_CMAKE:INTERNAL=1CFACE3B5A6A40E5BE6D990E
+NJLIC_GUID_CMAKE:INTERNAL=B253F15D688B4A49AF4FEE3B
 //STRINGS property for variable: NJLIC_SOUND_PLATFORM
 NJLIC_SOUND_PLATFORM-STRINGS:INTERNAL=openal;fmod;sdl
 //ADVANCED property for variable: OGG_INCLUDE_DIR
@@ -1715,7 +1691,7 @@ OGG_INCLUDE_DIR-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: PKG_CONFIG_EXECUTABLE
 PKG_CONFIG_EXECUTABLE-ADVANCED:INTERNAL=1
 //Stored Xcode object GUID
-PROJECT_NJLIC_GUID_CMAKE:INTERNAL=1AAEC21750104924A908B3B3
+PROJECT_NJLIC_GUID_CMAKE:INTERNAL=8A3B921053434E63BE0219B6
 //ADVANCED property for variable: SDL2_INCLUDE_DIR
 SDL2_INCLUDE_DIR-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: SDL2_LIBRARY_DEBUG
@@ -1735,33 +1711,33 @@ SWIG_VERSION-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: VORBIS_INCLUDE_DIR
 VORBIS_INCLUDE_DIR-ADVANCED:INTERNAL=1
 //Stored Xcode object GUID
-ZERO_CHECK_GUID_CMAKE:INTERNAL=E83100FC6037484299DC13D9
+ZERO_CHECK_GUID_CMAKE:INTERNAL=81884AF77AC74AE9B11B2DA8
 //Stored Xcode object GUID
-ZeroBrane-njlic-api_GUID_CMAKE:INTERNAL=2E9995DE64B34CD8BE34B618
+ZeroBrane-njlic-api_GUID_CMAKE:INTERNAL=6B20D9CA1AD14A60814067D3
 //CMAKE_INSTALL_PREFIX during last run
 _GNUInstallDirs_LAST_CMAKE_INSTALL_PREFIX:INTERNAL=/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/install/Debug
 //Stored Xcode object GUID
-clang-format_GUID_CMAKE:INTERNAL=66FAE7A707B648E5A3642303
+clang-format_GUID_CMAKE:INTERNAL=65D935EC27AE4CD7A4AE83D8
 //Stored Xcode object GUID
-cppcheck_GUID_CMAKE:INTERNAL=215DA2FAC55F405995E28165
+cppcheck_GUID_CMAKE:INTERNAL=A9AEA5CA02B34C0A9202A45E
 //ADVANCED property for variable: imgui_LIBRARY_DEBUG
 imgui_LIBRARY_DEBUG-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: imgui_LIBRARY_RELEASE
 imgui_LIBRARY_RELEASE-ADVANCED:INTERNAL=1
 //Stored Xcode object GUID
-install_GUID_CMAKE:INTERNAL=FA913E9573814E4CB6109E43
+install_GUID_CMAKE:INTERNAL=822F1685C7D34AE3A9281AAC
 //Stored Xcode object GUID
-lua_GUID_CMAKE:INTERNAL=C87EB6479C1A4D09A62D4029
+lua_GUID_CMAKE:INTERNAL=1BD93A3990514C0E9CD5B908
 //Stored Xcode object GUID
-luac_GUID_CMAKE:INTERNAL=4E42F894F4124F728EF5FE0F
+luac_GUID_CMAKE:INTERNAL=0F4345B777F6447CA9534DD2
 //ADVANCED property for variable: ogg_LIBRARY_DEBUG
 ogg_LIBRARY_DEBUG-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: ogg_LIBRARY_RELEASE
 ogg_LIBRARY_RELEASE-ADVANCED:INTERNAL=1
 //Stored Xcode object GUID
-package_GUID_CMAKE:INTERNAL=CC0ECF4A0EE4432483C4D966
+package_GUID_CMAKE:INTERNAL=D50E8E7ABC634439B95CA3EA
 //Stored Xcode object GUID
-uninstall_GUID_CMAKE:INTERNAL=7C0B0CF087104B88A8CC57C8
+uninstall_GUID_CMAKE:INTERNAL=D7C629975B8F4053922516CB
 //ADVANCED property for variable: vorbis_LIBRARY_DEBUG
 vorbis_LIBRARY_DEBUG-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: vorbis_LIBRARY_RELEASE

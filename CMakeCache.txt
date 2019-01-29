@@ -362,7 +362,7 @@ CMAKE_OSX_ARCHITECTURES:STRING=
 
 //Minimum OS X version to target for deployment (at runtime); newer
 // APIs weak linked. Set to empty string for default value.
-CMAKE_OSX_DEPLOYMENT_TARGET:STRING=10.13
+CMAKE_OSX_DEPLOYMENT_TARGET:STRING=
 
 //The product will be built against the headers and libraries located
 // inside the indicated SDK.
@@ -672,13 +672,13 @@ SDL2_INCLUDE_DIR:PATH=/usr/local/include/sdl2
 SDL2_LIBRARY_DEBUG:FILEPATH=/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/sdl2/lib/macos/Debug/libSDL2.a
 
 //Path to a library.
-SDL2_LIBRARY_MINSIZEREL:FILEPATH=/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/sdl2/lib/macos/MinSizeRel/libSDL2.a
+SDL2_LIBRARY_MINSIZEREL:FILEPATH=SDL2_LIBRARY_MINSIZEREL-NOTFOUND
 
 //Path to a library.
 SDL2_LIBRARY_RELEASE:FILEPATH=/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/sdl2/lib/macos/Release/libSDL2.a
 
 //Path to a library.
-SDL2_LIBRARY_RELWITHDEBINFO:FILEPATH=/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/sdl2/lib/macos/RelWithDebInfo/libSDL2.a
+SDL2_LIBRARY_RELWITHDEBINFO:FILEPATH=SDL2_LIBRARY_RELWITHDEBINFO-NOTFOUND
 
 //Enable the Atomic subsystem
 SDL_ATOMIC:BOOL=ON
@@ -1046,7 +1046,7 @@ vorbisfile_LIBRARY_RELWITHDEBINFO:FILEPATH=/Users/jamesfolk/Work/test_project_re
 ########################
 
 //Stored Xcode object GUID
-ALL_BUILD_GUID_CMAKE:INTERNAL=7B2A61A92FC54597A4359E30
+ALL_BUILD_GUID_CMAKE:INTERNAL=70EEB39CD5FF4F5780D7AC36
 //ADVANCED property for variable: BULLET3_INCLUDE_DIR
 BULLET3_INCLUDE_DIR-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: Bullet2FileLoader_LIBRARY_DEBUG
@@ -1313,7 +1313,7 @@ FIND_PACKAGE_MESSAGE_DETAILS_BulletXmlWorldImporter:INTERNAL=[/Users/jamesfolk/W
 //Details about finding ConvexDecomposition
 FIND_PACKAGE_MESSAGE_DETAILS_ConvexDecomposition:INTERNAL=[/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/include][optimized;/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Release/libConvexDecomposition.a;debug;/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libConvexDecomposition.a][v()]
 //Details about finding Doxygen
-FIND_PACKAGE_MESSAGE_DETAILS_Doxygen:INTERNAL=[/usr/local/bin/doxygen][cfound components:  doxygen dot ][v1.8.14()]
+FIND_PACKAGE_MESSAGE_DETAILS_Doxygen:INTERNAL=[/usr/local/bin/doxygen][cfound components:  doxygen dot ][v1.8.15()]
 //Details about finding GIMPACTUtils
 FIND_PACKAGE_MESSAGE_DETAILS_GIMPACTUtils:INTERNAL=[/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/include][optimized;/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Release/libGIMPACTUtils.a;debug;/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/thirdparty/bullet3/lib/macos/Debug/libGIMPACTUtils.a][v()]
 //Details about finding HACD
@@ -1603,29 +1603,29 @@ LinearMath_LIBRARY_DEBUG-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: LinearMath_LIBRARY_RELEASE
 LinearMath_LIBRARY_RELEASE-ADVANCED:INTERNAL=1
 //Stored Xcode object GUID
-NJLIC-documentation_GUID_CMAKE:INTERNAL=6CA1969DBAB14AA386C315C6
+NJLIC-documentation_GUID_CMAKE:INTERNAL=B92785E4744C43FA88A6F14A
 //Stored Xcode object GUID
-NJLIC-exe_GUID_CMAKE:INTERNAL=739C0722A1874A428D1D2B7F
+NJLIC-exe_GUID_CMAKE:INTERNAL=A268F5EA60CD4E54B2E5E782
 //Stored Xcode object GUID
-NJLIC-lua-swig-bullet3-module_GUID_CMAKE:INTERNAL=D61023CE0CA149A79FDC5036
+NJLIC-lua-swig-bullet3-module_GUID_CMAKE:INTERNAL=76E0A25C3B1349C9AA5E7160
 //Stored Xcode object GUID
-NJLIC-lua-swig-bullet3-static_GUID_CMAKE:INTERNAL=C190769D50A24DFA9A6E4089
+NJLIC-lua-swig-bullet3-static_GUID_CMAKE:INTERNAL=1BAFB997C7BB4614BE6DA283
 //Stored Xcode object GUID
-NJLIC-lua-swig-bullet3_GUID_CMAKE:INTERNAL=FDC242B1A196458F854341A5
+NJLIC-lua-swig-bullet3_GUID_CMAKE:INTERNAL=9CD78B350E134EDB8604AE03
 //Stored Xcode object GUID
-NJLIC-lua-swig-njlic-module_GUID_CMAKE:INTERNAL=91EC5C1AA877468A8FC81D5D
+NJLIC-lua-swig-njlic-module_GUID_CMAKE:INTERNAL=EC1EDD937748436D9631295D
 //Stored Xcode object GUID
-NJLIC-lua-swig-njlic-static_GUID_CMAKE:INTERNAL=C646776AFAF24E72998E1918
+NJLIC-lua-swig-njlic-static_GUID_CMAKE:INTERNAL=20BEF6F79C3242919CA13522
 //Stored Xcode object GUID
-NJLIC-lua-swig-njlic_GUID_CMAKE:INTERNAL=BE918BE0C4B2404AA325C4C8
+NJLIC-lua-swig-njlic_GUID_CMAKE:INTERNAL=891FB50005754FD78BA195CE
 //Stored Xcode object GUID
-NJLIC-static_GUID_CMAKE:INTERNAL=2328017A797D4B70B5AA7ABA
+NJLIC-static_GUID_CMAKE:INTERNAL=54816BDB06F847BFAF3D4FB0
 //Stored Xcode object GUID
-NJLICFramework_GUID_CMAKE:INTERNAL=EF08A11D38FF489C9CCBE648
+NJLICFramework_GUID_CMAKE:INTERNAL=B233DF598D204DF89631A545
 //STRINGS property for variable: NJLIC_GRAPHICS_PLATFORM
 NJLIC_GRAPHICS_PLATFORM-STRINGS:INTERNAL=opengl_2;opengl_3
 //Stored Xcode object GUID
-NJLIC_GUID_CMAKE:INTERNAL=B9CF3A571B764BC6A42A8BFB
+NJLIC_GUID_CMAKE:INTERNAL=4157384594A84189910A73AC
 //STRINGS property for variable: NJLIC_SOUND_PLATFORM
 NJLIC_SOUND_PLATFORM-STRINGS:INTERNAL=openal;fmod;sdl
 //ADVANCED property for variable: OGG_INCLUDE_DIR
@@ -1633,7 +1633,7 @@ OGG_INCLUDE_DIR-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: PKG_CONFIG_EXECUTABLE
 PKG_CONFIG_EXECUTABLE-ADVANCED:INTERNAL=1
 //Stored Xcode object GUID
-PROJECT_NJLIC_GUID_CMAKE:INTERNAL=703735108DF041689996C4DF
+PROJECT_NJLIC_GUID_CMAKE:INTERNAL=0E898E7F217941FC8CBEFDE7
 //ADVANCED property for variable: SDL2_INCLUDE_DIR
 SDL2_INCLUDE_DIR-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: SDL2_LIBRARY_DEBUG
@@ -1653,31 +1653,31 @@ SWIG_VERSION-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: VORBIS_INCLUDE_DIR
 VORBIS_INCLUDE_DIR-ADVANCED:INTERNAL=1
 //Stored Xcode object GUID
-ZERO_CHECK_GUID_CMAKE:INTERNAL=D6CCD550DE184B0494C99AC1
+ZERO_CHECK_GUID_CMAKE:INTERNAL=1CB67696B96E4264A6EC57FA
 //CMAKE_INSTALL_PREFIX during last run
 _GNUInstallDirs_LAST_CMAKE_INSTALL_PREFIX:INTERNAL=/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/install/Debug
 //Stored Xcode object GUID
-clang-format_GUID_CMAKE:INTERNAL=1B01603A22AC42FD92DF8441
+clang-format_GUID_CMAKE:INTERNAL=7D50C5F0E89E4FBD8C6C767B
 //Stored Xcode object GUID
-cppcheck_GUID_CMAKE:INTERNAL=01982A59AFBB4C26ABAA75D9
+cppcheck_GUID_CMAKE:INTERNAL=C6C5E50D709941E6916CA96F
 //ADVANCED property for variable: imgui_LIBRARY_DEBUG
 imgui_LIBRARY_DEBUG-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: imgui_LIBRARY_RELEASE
 imgui_LIBRARY_RELEASE-ADVANCED:INTERNAL=1
 //Stored Xcode object GUID
-install_GUID_CMAKE:INTERNAL=D416E45943EC424F921F092D
+install_GUID_CMAKE:INTERNAL=2395C924B87244919C25D809
 //Stored Xcode object GUID
-lua_GUID_CMAKE:INTERNAL=9BEC6F64A86E4411A43FBE8D
+lua_GUID_CMAKE:INTERNAL=5A919A3023DA446CADF1AD80
 //Stored Xcode object GUID
-luac_GUID_CMAKE:INTERNAL=D9F9E33817A44B47BE66EE13
+luac_GUID_CMAKE:INTERNAL=681439854AC741239DB9401D
 //ADVANCED property for variable: ogg_LIBRARY_DEBUG
 ogg_LIBRARY_DEBUG-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: ogg_LIBRARY_RELEASE
 ogg_LIBRARY_RELEASE-ADVANCED:INTERNAL=1
 //Stored Xcode object GUID
-package_GUID_CMAKE:INTERNAL=B3000C558D1245EB836825EA
+package_GUID_CMAKE:INTERNAL=4391BBD320A24C9DB0C8AAA1
 //Stored Xcode object GUID
-uninstall_GUID_CMAKE:INTERNAL=8837A7C638D443CDA8834F49
+uninstall_GUID_CMAKE:INTERNAL=6BC05FCF2AC0451ABD8663E1
 //ADVANCED property for variable: vorbis_LIBRARY_DEBUG
 vorbis_LIBRARY_DEBUG-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: vorbis_LIBRARY_RELEASE

@@ -16,3 +16,5 @@ NJLIC.xcodeproj/xcuserdata/
 Release/
 MinSizeRel/
 RelWithDebInfo/
+
+CMakeFiles/

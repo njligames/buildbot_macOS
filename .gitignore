@@ -18,3 +18,4 @@ MinSizeRel/
 RelWithDebInfo/
 
 CMakeFiles/
+*.dmg

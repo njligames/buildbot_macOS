@@ -666,10 +666,10 @@ NAS:BOOL=OFF
 NAS_SHARED:BOOL=OFF
 
 //Dependencies for the target
-NJLIC-static_LIB_DEPENDS:STATIC=general;Bullet2FileLoader;general;Bullet3Collision;general;Bullet3Common;general;Bullet3Dynamics;general;Bullet3Geometry;general;Bullet3OpenCL_clew;general;BulletCollision;general;BulletDynamics;general;BulletFileLoader;general;BulletInverseDynamics;general;BulletInverseDynamicsUtils;general;BulletSoftBody;general;BulletWorldImporter;general;BulletXmlWorldImporter;general;ConvexDecomposition;general;GIMPACTUtils;general;HACD;general;LinearMath;general;imgui;general;ImGuizmo;general;z;general;ogg;general;vorbis;general;vorbisenc;general;vorbisfile;general;-framework OpenAL;general;-framework OpenGL;general;m;general;iconv;general;-framework Metal;general;-framework CoreVideo;general;-framework Cocoa;general;-framework IOKit;general;-framework ForceFeedback;general;-framework Carbon;general;-framework CoreAudio;general;-framework AudioToolbox;general;SDL2;general;NJLIC-lua-swig-njlic-static;general;NJLIC-lua-swig-bullet3-static;general;NJLIC-lua-swig-glm-static;
+NJLIC-static_LIB_DEPENDS:STATIC=general;Bullet2FileLoader;general;Bullet3Collision;general;Bullet3Common;general;Bullet3Dynamics;general;Bullet3Geometry;general;Bullet3OpenCL_clew;general;BulletCollision;general;BulletDynamics;general;BulletFileLoader;general;BulletInverseDynamics;general;BulletInverseDynamicsUtils;general;BulletSoftBody;general;BulletWorldImporter;general;BulletXmlWorldImporter;general;ConvexDecomposition;general;GIMPACTUtils;general;HACD;general;LinearMath;general;imgui;general;ImGuizmo;general;z;general;ogg;general;vorbis;general;vorbisenc;general;vorbisfile;general;-framework OpenAL;general;-framework OpenGL;general;m;general;iconv;general;-framework Metal;general;-framework CoreVideo;general;-framework Cocoa;general;-framework IOKit;general;-framework ForceFeedback;general;-framework Carbon;general;-framework CoreAudio;general;-framework AudioToolbox;general;SDL2;general;NJLIC-lua-swig-njlic-static;general;NJLIC-lua-swig-bullet3-static;
 
 //Dependencies for the target
-NJLICFramework_LIB_DEPENDS:STATIC=general;Bullet2FileLoader;general;Bullet3Collision;general;Bullet3Common;general;Bullet3Dynamics;general;Bullet3Geometry;general;Bullet3OpenCL_clew;general;BulletCollision;general;BulletDynamics;general;BulletFileLoader;general;BulletInverseDynamics;general;BulletInverseDynamicsUtils;general;BulletSoftBody;general;BulletWorldImporter;general;BulletXmlWorldImporter;general;ConvexDecomposition;general;GIMPACTUtils;general;HACD;general;LinearMath;general;imgui;general;ImGuizmo;general;z;general;ogg;general;vorbis;general;vorbisenc;general;vorbisfile;general;-framework OpenAL;general;-framework OpenGL;general;m;general;iconv;general;-framework Metal;general;-framework CoreVideo;general;-framework Cocoa;general;-framework IOKit;general;-framework ForceFeedback;general;-framework Carbon;general;-framework CoreAudio;general;-framework AudioToolbox;general;SDL2;general;NJLIC-lua-swig-njlic-static;general;NJLIC-lua-swig-bullet3-static;general;NJLIC-lua-swig-glm-static;
+NJLICFramework_LIB_DEPENDS:STATIC=general;Bullet2FileLoader;general;Bullet3Collision;general;Bullet3Common;general;Bullet3Dynamics;general;Bullet3Geometry;general;Bullet3OpenCL_clew;general;BulletCollision;general;BulletDynamics;general;BulletFileLoader;general;BulletInverseDynamics;general;BulletInverseDynamicsUtils;general;BulletSoftBody;general;BulletWorldImporter;general;BulletXmlWorldImporter;general;ConvexDecomposition;general;GIMPACTUtils;general;HACD;general;LinearMath;general;imgui;general;ImGuizmo;general;z;general;ogg;general;vorbis;general;vorbisenc;general;vorbisfile;general;-framework OpenAL;general;-framework OpenGL;general;m;general;iconv;general;-framework Metal;general;-framework CoreVideo;general;-framework Cocoa;general;-framework IOKit;general;-framework ForceFeedback;general;-framework Carbon;general;-framework CoreAudio;general;-framework AudioToolbox;general;SDL2;general;NJLIC-lua-swig-njlic-static;general;NJLIC-lua-swig-bullet3-static;
 
 //Value Computed by CMake
 NJLIC_BINARY_DIR:STATIC=/Users/jamesfolk/Work/test_project_repo/buildbot_macOS
@@ -684,7 +684,7 @@ NJLIC_EXE:BOOL=ON
 NJLIC_GRAPHICS_PLATFORM:STRING=opengl_2
 
 //Dependencies for the target
-NJLIC_LIB_DEPENDS:STATIC=general;Bullet2FileLoader;general;Bullet3Collision;general;Bullet3Common;general;Bullet3Dynamics;general;Bullet3Geometry;general;Bullet3OpenCL_clew;general;BulletCollision;general;BulletDynamics;general;BulletFileLoader;general;BulletInverseDynamics;general;BulletInverseDynamicsUtils;general;BulletSoftBody;general;BulletWorldImporter;general;BulletXmlWorldImporter;general;ConvexDecomposition;general;GIMPACTUtils;general;HACD;general;LinearMath;general;imgui;general;ImGuizmo;general;z;general;ogg;general;vorbis;general;vorbisenc;general;vorbisfile;general;-framework OpenAL;general;-framework OpenGL;general;m;general;iconv;general;-framework Metal;general;-framework CoreVideo;general;-framework Cocoa;general;-framework IOKit;general;-framework ForceFeedback;general;-framework Carbon;general;-framework CoreAudio;general;-framework AudioToolbox;general;SDL2;general;NJLIC-lua-swig-njlic-static;general;NJLIC-lua-swig-bullet3-static;general;NJLIC-lua-swig-glm-static;
+NJLIC_LIB_DEPENDS:STATIC=general;Bullet2FileLoader;general;Bullet3Collision;general;Bullet3Common;general;Bullet3Dynamics;general;Bullet3Geometry;general;Bullet3OpenCL_clew;general;BulletCollision;general;BulletDynamics;general;BulletFileLoader;general;BulletInverseDynamics;general;BulletInverseDynamicsUtils;general;BulletSoftBody;general;BulletWorldImporter;general;BulletXmlWorldImporter;general;ConvexDecomposition;general;GIMPACTUtils;general;HACD;general;LinearMath;general;imgui;general;ImGuizmo;general;z;general;ogg;general;vorbis;general;vorbisenc;general;vorbisfile;general;-framework OpenAL;general;-framework OpenGL;general;m;general;iconv;general;-framework Metal;general;-framework CoreVideo;general;-framework Cocoa;general;-framework IOKit;general;-framework ForceFeedback;general;-framework Carbon;general;-framework CoreAudio;general;-framework AudioToolbox;general;SDL2;general;NJLIC-lua-swig-njlic-static;general;NJLIC-lua-swig-bullet3-static;
 
 //Build the swig module for NJLIC
 NJLIC_LUA_SWIG:BOOL=ON
@@ -1188,7 +1188,7 @@ zlib_URL_INCLUDE:STRING=https://www.dropbox.com/s/9r6ej0lupnzkkpe/libzlib_includ
 ########################
 
 //Stored Xcode object GUID
-ALL_BUILD_GUID_CMAKE:INTERNAL=11E5A4085BB1404CB32617DC
+ALL_BUILD_GUID_CMAKE:INTERNAL=3B240B6D336544499E8D1B6E
 //ADVANCED property for variable: BULLET3_INCLUDE_DIR
 BULLET3_INCLUDE_DIR-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: Bullet2FileLoader_LIBRARY_DEBUG
@@ -1749,23 +1749,21 @@ LinearMath_LIBRARY_DEBUG-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: LinearMath_LIBRARY_RELEASE
 LinearMath_LIBRARY_RELEASE-ADVANCED:INTERNAL=1
 //Stored Xcode object GUID
-NJLIC-documentation_GUID_CMAKE:INTERNAL=6D45760896834DE7BBC44BF4
+NJLIC-documentation_GUID_CMAKE:INTERNAL=3C425DDE5CAB43A1BC278FBF
 //Stored Xcode object GUID
-NJLIC-exe_GUID_CMAKE:INTERNAL=89C458803922439BB542BA12
+NJLIC-exe_GUID_CMAKE:INTERNAL=50892D2BDF884FCDB24ECAD2
 //Stored Xcode object GUID
-NJLIC-lua-swig-bullet3-static_GUID_CMAKE:INTERNAL=65F07C94195643B5A0C56775
+NJLIC-lua-swig-bullet3-static_GUID_CMAKE:INTERNAL=FA7125EDC9794E9AA78A2C21
 //Stored Xcode object GUID
-NJLIC-lua-swig-glm-static_GUID_CMAKE:INTERNAL=424523EDB3394A5DA4D7E377
+NJLIC-lua-swig-njlic-static_GUID_CMAKE:INTERNAL=77935003BFA540F9A02F0DFD
 //Stored Xcode object GUID
-NJLIC-lua-swig-njlic-static_GUID_CMAKE:INTERNAL=AB5179733E5B4AE3A42735E6
+NJLIC-static_GUID_CMAKE:INTERNAL=2D6000AE17CA4D74B2213F8F
 //Stored Xcode object GUID
-NJLIC-static_GUID_CMAKE:INTERNAL=7C3A29D627014A7AAAAB4A05
-//Stored Xcode object GUID
-NJLICFramework_GUID_CMAKE:INTERNAL=955704DE35B848F6A52569B2
+NJLICFramework_GUID_CMAKE:INTERNAL=323473C3F42E4F088AC704D2
 //STRINGS property for variable: NJLIC_GRAPHICS_PLATFORM
 NJLIC_GRAPHICS_PLATFORM-STRINGS:INTERNAL=opengl_2;opengl_3
 //Stored Xcode object GUID
-NJLIC_GUID_CMAKE:INTERNAL=B674F020EA7E4FB2BB7B01E4
+NJLIC_GUID_CMAKE:INTERNAL=13766978DF2F417A97CE4545
 //STRINGS property for variable: NJLIC_SOUND_PLATFORM
 NJLIC_SOUND_PLATFORM-STRINGS:INTERNAL=openal;fmod;sdl
 //ADVANCED property for variable: OGG_INCLUDE_DIR
@@ -1773,7 +1771,7 @@ OGG_INCLUDE_DIR-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: PKG_CONFIG_EXECUTABLE
 PKG_CONFIG_EXECUTABLE-ADVANCED:INTERNAL=1
 //Stored Xcode object GUID
-PROJECT_NJLIC_GUID_CMAKE:INTERNAL=C2A476393F04422BB3540CED
+PROJECT_NJLIC_GUID_CMAKE:INTERNAL=3CC2E50F710A4AEC957DCA56
 //ADVANCED property for variable: SDL2_INCLUDE_DIR
 SDL2_INCLUDE_DIR-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: SDL2_LIBRARY_DEBUG
@@ -1795,35 +1793,35 @@ SWIG_VERSION-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: VORBIS_INCLUDE_DIR
 VORBIS_INCLUDE_DIR-ADVANCED:INTERNAL=1
 //Stored Xcode object GUID
-ZERO_CHECK_GUID_CMAKE:INTERNAL=59E70E2A7F244E09B1A17398
+ZERO_CHECK_GUID_CMAKE:INTERNAL=86C8D627810F4C2AAC3108F3
 //ADVANCED property for variable: ZLIB_INCLUDE_DIR
 ZLIB_INCLUDE_DIR-ADVANCED:INTERNAL=1
 //Stored Xcode object GUID
-ZeroBrane-njlic-api_GUID_CMAKE:INTERNAL=54C6A15CA7694B4D88ABDB0D
+ZeroBrane-njlic-api_GUID_CMAKE:INTERNAL=9208FBC754394F44BE480C4D
 //CMAKE_INSTALL_PREFIX during last run
 _GNUInstallDirs_LAST_CMAKE_INSTALL_PREFIX:INTERNAL=/Users/jamesfolk/Work/test_project_repo/buildbot_macOS/install/Release
 //Stored Xcode object GUID
-clang-format_GUID_CMAKE:INTERNAL=C6D4D2115A5740BC9226E41B
+clang-format_GUID_CMAKE:INTERNAL=13FB626BBC0B431897ADB88A
 //Stored Xcode object GUID
-cppcheck_GUID_CMAKE:INTERNAL=45F83A60ECB7478F95E04A2E
+cppcheck_GUID_CMAKE:INTERNAL=0D63704ABEAC49CDB1E875A8
 //ADVANCED property for variable: imgui_LIBRARY_DEBUG
 imgui_LIBRARY_DEBUG-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: imgui_LIBRARY_RELEASE
 imgui_LIBRARY_RELEASE-ADVANCED:INTERNAL=1
 //Stored Xcode object GUID
-install_GUID_CMAKE:INTERNAL=19582CB678F14488A409AD6E
+install_GUID_CMAKE:INTERNAL=49543C10AD81445BBCADDDAD
 //Stored Xcode object GUID
-lua_GUID_CMAKE:INTERNAL=B664610199CE4B62A1785328
+lua_GUID_CMAKE:INTERNAL=C5930906DEDD45F6A1630BA4
 //Stored Xcode object GUID
-luac_GUID_CMAKE:INTERNAL=6B3D1C9FA47D44049D208078
+luac_GUID_CMAKE:INTERNAL=1563985F334F4411853D45E8
 //ADVANCED property for variable: ogg_LIBRARY_DEBUG
 ogg_LIBRARY_DEBUG-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: ogg_LIBRARY_RELEASE
 ogg_LIBRARY_RELEASE-ADVANCED:INTERNAL=1
 //Stored Xcode object GUID
-package_GUID_CMAKE:INTERNAL=32F33E17C66B422486B5A887
+package_GUID_CMAKE:INTERNAL=7C97D77EA96C422BA4D8A709
 //Stored Xcode object GUID
-uninstall_GUID_CMAKE:INTERNAL=9372B029ADB94BA5B7EC6E93
+uninstall_GUID_CMAKE:INTERNAL=8E3382146CC84EFBBFF8F96D
 //ADVANCED property for variable: vorbis_LIBRARY_DEBUG
 vorbis_LIBRARY_DEBUG-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: vorbis_LIBRARY_RELEASE
